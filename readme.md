@@ -1,6 +1,3 @@
-Voici un exemple de README pour présenter votre projet :
-
-```
 # Plateforme de Surveillance Informatique
 
 Ce projet vise à développer une plateforme de surveillance informatique permettant de collecter des données sur les performances des systèmes informatiques, de détecter les situations de crise et d'envoyer des alertes en cas de besoin.
@@ -15,11 +12,6 @@ Ce projet vise à développer une plateforme de surveillance informatique permet
 ## Utilisation
 
 1. Cloner le dépôt depuis GitHub :
-
-```bash
-git clone https://github.com/votre-utilisateur/plateforme-surveillance-informatique.git
-cd plateforme-surveillance-informatique
-```
 
 2. Installer les dépendances Python (voir ci dessous)
 
