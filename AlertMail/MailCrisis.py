@@ -31,11 +31,11 @@ def check_thresholds(current_values, config_values):
     return crisisState
 
 def sendAlertMail(crisisState):
-    smtp_server = "partage.univ-avignon.fr"
-    smtp_port = 465 
-    smtp_username = "quentin.garnier@alumni.univ-avignon.fr"
-    smtp_password = "Lavie1313Su2q7x"
-    receiver_email = "quentin.garnier@alumni.univ-avignon.fr"
+    smtp_server = ""
+    smtp_port =  
+    smtp_username = ""
+    smtp_password = ""
+    receiver_email = ""
 
 
     message = MIMEMultipart()
