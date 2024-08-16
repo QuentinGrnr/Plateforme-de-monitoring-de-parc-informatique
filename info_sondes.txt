@@ -1,0 +1,6815 @@
+-------------------
+2024-03-02 11:05:01
+-------------------
+cpuUsage : 19,6
+diskUsage : 67
+processCount : 129
+ramUsage : 20.57
+userCount : 0
+-------------------
+2024-03-02 11:06:01
+-------------------
+cpuUsage : 27,3
+diskUsage : 67
+processCount : 130
+ramUsage : 22.07
+userCount : 0
+-------------------
+2024-03-02 11:07:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 67
+processCount : 132
+ramUsage : 30.68
+userCount : 0
+-------------------
+2024-03-02 11:08:01
+-------------------
+cpuUsage : 5,1
+diskUsage : 67
+processCount : 132
+ramUsage : 29.06
+userCount : 0
+-------------------
+2024-03-02 11:09:01
+-------------------
+cpuUsage : 12,5
+diskUsage : 67
+processCount : 134
+ramUsage : 29.06
+userCount : 0
+-------------------
+2024-03-02 11:10:01
+-------------------
+cpuUsage : 4,3
+diskUsage : 67
+processCount : 141
+ramUsage : 30.89
+userCount : 0
+-------------------
+2024-03-02 11:11:02
+-------------------
+cpuUsage : 0,0
+diskUsage : 67
+processCount : 133
+ramUsage : 29.15
+userCount : 0
+-------------------
+2024-03-02 11:12:01
+-------------------
+cpuUsage : 4,3
+diskUsage : 67
+processCount : 133
+ramUsage : 29.32
+userCount : 0
+-------------------
+2024-03-02 11:13:02
+-------------------
+cpuUsage : 2,0
+diskUsage : 67
+processCount : 133
+ramUsage : 29.32
+userCount : 0
+-------------------
+2024-03-02 11:14:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 67
+processCount : 134
+ramUsage : 29.41
+userCount : 0
+-------------------
+2024-03-02 11:15:01
+-------------------
+cpuUsage : 6,2
+diskUsage : 67
+processCount : 134
+ramUsage : 29.43
+userCount : 0
+-------------------
+2024-03-02 11:16:01
+-------------------
+cpuUsage : 4,4
+diskUsage : 67
+processCount : 133
+ramUsage : 29.45
+userCount : 0
+-------------------
+2024-03-02 11:17:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 67
+processCount : 133
+ramUsage : 29.41
+userCount : 0
+-------------------
+2024-03-02 11:18:01
+-------------------
+cpuUsage : 4,5
+diskUsage : 67
+processCount : 133
+ramUsage : 29.51
+userCount : 0
+16
+-------------------
+2024-03-02 11:19:01
+-------------------
+cpuUsage : 1,9
+diskUsage : 67
+processCount : 131
+ramUsage : 29.09
+userCount : 0
+18
+test
+-------------------
+2024-03-02 11:20:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 67
+processCount : 131
+ramUsage : 29.09
+userCount : 0
+19
+-------------------
+2024-03-02 11:21:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 67
+processCount : 132
+ramUsage : 29.04
+userCount : 0
+20
+-------------------
+2024-03-02 11:22:01
+-------------------
+cpuUsage : 2,0
+diskUsage : 67
+processCount : 132
+ramUsage : 29.34
+userCount : 0
+-------------------
+2024-03-02 11:23:01
+-------------------
+cpuUsage : 1,8
+diskUsage : 67
+processCount : 132
+ramUsage : 29.79
+userCount : 0
+-------------------
+2024-03-02 11:24:01
+-------------------
+cpuUsage : 2,0
+diskUsage : 67
+processCount : 132
+ramUsage : 29.76
+userCount : 0
+-------------------
+2024-03-02 11:25:01
+-------------------
+cpuUsage : 2,0
+diskUsage : 67
+processCount : 132
+ramUsage : 29.56
+userCount : 0
+-------------------
+2024-03-02 11:26:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 67
+processCount : 132
+ramUsage : 29.26
+userCount : 0
+-------------------
+2024-03-02 11:27:02
+-------------------
+cpuUsage : 29,5
+diskUsage : 67
+processCount : 131
+ramUsage : 29.27
+userCount : 0
+-------------------
+2024-03-02 11:28:02
+-------------------
+cpuUsage : 2,1
+diskUsage : 67
+processCount : 134
+ramUsage : 29.53
+userCount : 0
+-------------------
+2024-03-02 11:29:02
+-------------------
+cpuUsage : 1,7
+diskUsage : 67
+processCount : 134
+ramUsage : 29.90
+userCount : 0
+-------------------
+2024-03-02 11:30:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 67
+processCount : 134
+ramUsage : 29.95
+userCount : 0
+-------------------
+2024-03-02 11:31:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 67
+processCount : 134
+ramUsage : 29.88
+userCount : 0
+-------------------
+2024-03-02 11:32:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 67
+processCount : 134
+ramUsage : 29.94
+userCount : 0
+-------------------
+2024-03-02 11:33:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 67
+processCount : 131
+ramUsage : 29.59
+userCount : 0
+-------------------
+2024-03-02 11:34:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 67
+processCount : 132
+ramUsage : 29.63
+userCount : 0
+-------------------
+2024-03-02 11:35:01
+-------------------
+cpuUsage : 4,8
+diskUsage : 67
+processCount : 133
+ramUsage : 29.50
+userCount : 0
+-------------------
+2024-03-02 11:36:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 67
+processCount : 133
+ramUsage : 29.58
+userCount : 0
+-------------------
+2024-03-02 11:37:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 67
+processCount : 133
+ramUsage : 29.59
+userCount : 0
+-------------------
+2024-03-02 11:38:01
+-------------------
+cpuUsage : 1,6
+diskUsage : 67
+processCount : 133
+ramUsage : 29.64
+userCount : 0
+-------------------
+2024-03-02 11:39:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 67
+processCount : 133
+ramUsage : 30.26
+userCount : 0
+ls: cannot access '/backup*': No such file or directory
+Aucun fichier commen√ßant par 'backup' n'a √©t√© trouv√© dans le dossier.
+-------------------
+2024-03-02 11:40:01
+-------------------
+cpuUsage : 7,1
+diskUsage : 67
+processCount : 135
+ramUsage : 29.81
+userCount : 0
+./save/backup_20240302_113854.db
+./save/backup_20240302_113858.db
+./save/backup_20240302_113902.db
+./save/backup_20240302_113923.db
+./save/backup_20240302_113951.db
+./save/backup_20240302_114000.db
+./save/backup_20240302_114002.db
+Un fichier commen√ßant par 'backup' a √©t√© trouv√© dans le dossier.
+-------------------
+2024-03-02 11:41:01
+-------------------
+cpuUsage : 2,0
+diskUsage : 67
+processCount : 132
+ramUsage : 29.35
+userCount : 0
+./save/backup_20240302_114102.db
+Un fichier commen√ßant par 'backup' a √©t√© trouv√© dans le dossier.
+-------------------
+2024-03-02 11:42:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 67
+processCount : 132
+ramUsage : 30.05
+userCount : 0
+-------------------
+2024-03-02 11:43:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 67
+processCount : 131
+ramUsage : 29.94
+userCount : 0
+./save/backup_2024-03-02_11-42-57.db
+-------------------
+2024-03-02 11:44:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 67
+processCount : 131
+ramUsage : 29.83
+userCount : 0
+./save/backup_2024-03-02_11-43-56.db
+-------------------
+2024-03-02 11:45:02
+-------------------
+cpuUsage : 2,1
+diskUsage : 67
+processCount : 131
+ramUsage : 29.72
+userCount : 0
+./save/backup_2024-03-02_11-44-02.db
+-------------------
+2024-03-02 11:46:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 67
+processCount : 131
+ramUsage : 29.72
+userCount : 0
+./save/backup_2024-03-02_11-45-03.db
+-------------------
+2024-03-02 11:47:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 67
+processCount : 131
+ramUsage : 29.76
+userCount : 0
+./save/backup_2024-03-02_11-46-02.db
+-------------------
+2024-03-02 11:48:01
+-------------------
+cpuUsage : 1,2
+diskUsage : 67
+processCount : 131
+ramUsage : 29.69
+userCount : 0
+./save/backup_2024-03-02_11-47-02.db
+-------------------
+2024-03-02 11:49:01
+-------------------
+cpuUsage : 2,0
+diskUsage : 67
+processCount : 131
+ramUsage : 29.96
+userCount : 0
+./save/backup_2024-03-02_11-48-02.db
+-------------------
+2024-03-02 11:50:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 67
+processCount : 132
+ramUsage : 29.92
+userCount : 0
+./save/backup_2024-03-02_11-49-02.db
+-------------------
+2024-03-02 11:51:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 67
+processCount : 132
+ramUsage : 29.91
+userCount : 0
+./save/backup_2024-03-02_11-50-02.db
+-------------------
+2024-03-02 13:10:48
+-------------------
+cpuUsage : 56,2
+diskUsage : 67
+processCount : 139
+ramUsage : 30.02
+userCount : 0
+./save/backup_2024-03-02_11-51-02.db
+-------------------
+2024-03-02 13:11:02
+-------------------
+cpuUsage : 0,0
+diskUsage : 66
+processCount : 149
+ramUsage : 30.52
+userCount : 0
+./save/backup_2024-03-02_13-10-50.db
+-------------------
+2024-03-02 13:12:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 67
+processCount : 145
+ramUsage : 30.80
+userCount : 0
+./save/backup_2024-03-02_13-11-03.db
+-------------------
+2024-03-02 13:13:02
+-------------------
+cpuUsage : 2,3
+diskUsage : 67
+processCount : 145
+ramUsage : 30.79
+userCount : 0
+./save/backup_2024-03-02_13-12-02.db
+-------------------
+2024-03-02 13:14:01
+-------------------
+cpuUsage : 2,0
+diskUsage : 67
+processCount : 149
+ramUsage : 30.67
+userCount : 0
+./save/backup_2024-03-02_13-13-02.db
+-------------------
+2024-03-02 15:50:23
+-------------------
+cpuUsage : 33,3
+diskUsage : 67
+processCount : 165
+ramUsage : 30.26
+userCount : 0
+./save/backup_2024-03-02_13-14-03.db
+-------------------
+2024-03-02 15:51:01
+-------------------
+cpuUsage : 6,7
+diskUsage : 67
+processCount : 172
+ramUsage : 30.16
+userCount : 0
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+OSError: [Errno 101] Network is unreachable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 395, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.10/http/client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.10/http/client.py", line 976, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fc1c1365f60>: Failed to establish a new connection: [Errno 101] Network is unreachable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 756, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='www.cert.ssi.gouv.fr', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc1c1365f60>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/sondes/getCertAlert.py", line 16, in <module>
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 544, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 657, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='www.cert.ssi.gouv.fr', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc1c1365f60>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+./save/backup_2024-03-02_15-50-26.db
+-------------------
+2024-03-02 15:52:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 67
+processCount : 172
+ramUsage : 30.21
+userCount : 0
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+OSError: [Errno 101] Network is unreachable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 395, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.10/http/client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.10/http/client.py", line 976, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7fd703059fc0>: Failed to establish a new connection: [Errno 101] Network is unreachable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 756, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='www.cert.ssi.gouv.fr', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd703059fc0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/sondes/getCertAlert.py", line 16, in <module>
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 544, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 657, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='www.cert.ssi.gouv.fr', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd703059fc0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+./save/backup_2024-03-02_15-51-34.db
+-------------------
+2024-03-02 15:53:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 67
+processCount : 172
+ramUsage : 30.40
+userCount : 0
+./save/backup_2024-03-02_15-52-02.db
+-------------------
+2024-03-02 15:54:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 67
+processCount : 172
+ramUsage : 30.50
+userCount : 0
+./save/backup_2024-03-02_15-53-03.db
+-------------------
+2024-03-02 15:55:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 67
+processCount : 172
+ramUsage : 30.62
+userCount : 0
+./save/backup_2024-03-02_15-54-03.db
+-------------------
+2024-03-02 15:56:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 67
+processCount : 155
+ramUsage : 30.61
+userCount : 0
+./save/backup_2024-03-02_15-55-02.db
+-------------------
+2024-03-02 15:57:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 67
+processCount : 156
+ramUsage : 30.40
+userCount : 0
+./save/backup_2024-03-02_15-56-03.db
+-------------------
+2024-03-02 15:58:19
+-------------------
+cpuUsage : 3,2
+diskUsage : 67
+processCount : 157
+ramUsage : 30.55
+userCount : 0
+./save/backup_2024-03-02_15-57-03.db
+-------------------
+2024-03-02 15:59:01
+-------------------
+cpuUsage : 4,3
+diskUsage : 67
+processCount : 166
+ramUsage : 30.70
+userCount : 0
+./save/backup_2024-03-02_15-58-21.db
+-------------------
+2024-03-02 16:00:01
+-------------------
+cpuUsage : 4,3
+diskUsage : 67
+processCount : 166
+ramUsage : 30.75
+userCount : 0
+./save/backup_2024-03-02_15-59-03.db
+-------------------
+2024-03-02 16:01:01
+-------------------
+cpuUsage : 2,4
+diskUsage : 67
+processCount : 166
+ramUsage : 30.82
+userCount : 0
+./save/backup_2024-03-02_16-00-03.db
+-------------------
+2024-03-02 16:02:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 67
+processCount : 165
+ramUsage : 30.44
+userCount : 0
+./save/backup_2024-03-02_16-01-02.db
+-------------------
+2024-03-02 16:03:01
+-------------------
+cpuUsage : 4,3
+diskUsage : 67
+processCount : 166
+ramUsage : 30.73
+userCount : 0
+./save/backup_2024-03-02_16-02-03.db
+-------------------
+2024-03-02 16:04:01
+-------------------
+cpuUsage : 4,3
+diskUsage : 67
+processCount : 164
+ramUsage : 30.33
+userCount : 0
+./save/backup_2024-03-02_16-03-03.db
+-------------------
+2024-03-02 16:05:01
+-------------------
+cpuUsage : 4,3
+diskUsage : 67
+processCount : 164
+ramUsage : 30.37
+userCount : 0
+./save/backup_2024-03-02_16-04-02.db
+-------------------
+2024-03-02 16:06:01
+-------------------
+cpuUsage : 6,7
+diskUsage : 67
+processCount : 164
+ramUsage : 30.42
+userCount : 0
+./save/backup_2024-03-02_16-05-03.db
+-------------------
+2024-03-02 16:07:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 67
+processCount : 164
+ramUsage : 30.80
+userCount : 0
+./save/backup_2024-03-02_16-06-03.db
+-------------------
+2024-03-02 16:08:01
+-------------------
+cpuUsage : 4,3
+diskUsage : 67
+processCount : 163
+ramUsage : 30.89
+userCount : 0
+./save/backup_2024-03-02_16-07-03.db
+-------------------
+2024-03-02 16:09:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 67
+processCount : 163
+ramUsage : 30.87
+userCount : 0
+./save/backup_2024-03-02_16-08-02.db
+-------------------
+2024-03-02 16:10:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 67
+processCount : 163
+ramUsage : 31.10
+userCount : 0
+./save/backup_2024-03-02_16-09-03.db
+-------------------
+2024-03-02 16:14:02
+-------------------
+cpuUsage : 27,9
+diskUsage : 67
+processCount : 166
+ramUsage : 30.70
+userCount : 0
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 96, in create_connection
+    raise err
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 86, in create_connection
+    sock.connect(sa)
+OSError: [Errno 101] Network is unreachable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 395, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.10/http/client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.10/http/client.py", line 976, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f9ef7339de0>: Failed to establish a new connection: [Errno 101] Network is unreachable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 756, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='www.cert.ssi.gouv.fr', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9ef7339de0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/sondes/getCertAlert.py", line 16, in <module>
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 544, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 657, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='www.cert.ssi.gouv.fr', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9ef7339de0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+-------------------
+2024-03-02 18:23:00
+-------------------
+./save/backup_2024-03-02_16-10-03.db
+-------------------
+2024-03-02 18:23:01
+-------------------
+cpuUsage : 33,9
+diskUsage : 67
+cpuUsage : 20,0
+diskUsage : 67
+processCount : 179
+ramUsage : 30.83
+processCount : 180
+userCount : 0
+ramUsage : 30.77
+userCount : 0
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/li-------------------
+2024-03-06 08:52:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 67
+processCount : 129
+ramUsage : 4.58
+userCount : 0
+./save/backup_2024-03-02_22-28-07.db
+-------------------
+2024-03-06 08:53:02
+-------------------
+cpuUsage : 4,1
+diskUsage : 68
+processCount : 147
+ramUsage : 19.72
+userCount : 1
+./save/backup_2024-03-06_08-52-04.db
+-------------------
+2024-03-06 08:54:01
+-------------------
+cpuUsage : 2,0
+diskUsage : 68
+processCount : 147
+ramUsage : 18.65
+userCount : 1
+./save/backup_2024-03-06_08-53-03.db
+-------------------
+2024-03-06 08:55:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 68
+processCount : 147
+ramUsage : 18.19
+userCount : 1
+./save/backup_2024-03-06_08-54-02.db
+-------------------
+2024-03-06 08:56:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 68
+processCount : 145
+ramUsage : 18.50
+userCount : 1
+./save/backup_2024-03-06_08-55-02.db
+-------------------
+2024-03-06 08:57:02
+-------------------
+cpuUsage : 2,0
+diskUsage : 68
+processCount : 402
+ramUsage : 18.91
+userCount : 1
+./save/backup_2024-03-06_08-56-01.db
+-------------------
+2024-03-06 08:58:02
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 401
+ramUsage : 19.09
+userCount : 1
+./save/backup_2024-03-06_08-57-02.db
+-------------------
+2024-03-06 08:59:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 68
+processCount : 401
+ramUsage : 19.38
+userCount : 1
+./save/backup_2024-03-06_08-58-02.db
+-------------------
+2024-03-06 09:00:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 401
+ramUsage : 19.70
+userCount : 1
+./save/backup_2024-03-06_08-59-02.db
+-------------------
+2024-03-06 09:01:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 401
+ramUsage : 19.69
+userCount : 1
+./save/backup_2024-03-06_09-00-02.db
+-------------------
+2024-03-06 09:02:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 68
+processCount : 134
+ramUsage : 19.53
+userCount : 1
+./save/backup_2024-03-06_09-01-02.db
+-------------------
+2024-03-06 09:03:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 134
+ramUsage : 19.52
+userCount : 1
+./save/backup_2024-03-06_09-02-01.db
+-------------------
+2024-03-06 09:04:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 68
+processCount : 134
+ramUsage : 19.50
+userCount : 1
+./save/backup_2024-03-06_09-03-02.db
+-------------------
+2024-03-06 09:05:01
+-------------------
+cpuUsage : 4,2
+diskUsage : 68
+processCount : 134
+ramUsage : 19.50
+userCount : 1
+./save/backup_2024-03-06_09-04-02.db
+-------------------
+2024-03-06 09:06:01
+-------------------
+cpuUsage : 4,4
+diskUsage : 68
+processCount : 135
+ramUsage : 19.52
+userCount : 1
+./save/backup_2024-03-06_09-05-02.db
+-------------------
+2024-03-06 09:07:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 135
+ramUsage : 19.33
+userCount : 1
+./save/backup_2024-03-06_09-06-02.db
+-------------------
+2024-03-06 09:08:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 135
+ramUsage : 19.32
+userCount : 1
+./save/backup_2024-03-06_09-07-01.db
+-------------------
+2024-03-06 09:09:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 135
+ramUsage : 19.29
+userCount : 1
+./save/backup_2024-03-06_09-08-02.db
+-------------------
+2024-03-06 09:10:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 135
+ramUsage : 19.75
+userCount : 1
+./save/backup_2024-03-06_09-09-02.db
+-------------------
+2024-03-06 09:11:01
+-------------------
+cpuUsage : 1,9
+diskUsage : 68
+processCount : 134
+ramUsage : 19.72
+userCount : 1
+./save/backup_2024-03-06_09-10-02.db
+-------------------
+2024-03-06 09:12:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 135
+ramUsage : 19.69
+userCount : 1
+./save/backup_2024-03-06_09-11-01.db
+-------------------
+2024-03-06 09:13:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 137
+ramUsage : 19.65
+userCount : 1
+./save/backup_2024-03-06_09-12-02.db
+-------------------
+2024-03-06 09:14:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 137
+ramUsage : 19.65
+userCount : 1
+./save/backup_2024-03-06_09-13-02.db
+-------------------
+2024-03-06 09:15:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 68
+processCount : 137
+ramUsage : 19.65
+userCount : 1
+./save/backup_2024-03-06_09-14-02.db
+-------------------
+2024-03-06 09:16:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 137
+ramUsage : 19.75
+userCount : 1
+./save/backup_2024-03-06_09-15-01.db
+-------------------
+2024-03-06 09:17:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 68
+processCount : 137
+ramUsage : 19.75
+userCount : 1
+./save/backup_2024-03-06_09-16-02.db
+-------------------
+2024-03-06 09:18:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 135
+ramUsage : 19.71
+userCount : 1
+./save/backup_2024-03-06_09-17-02.db
+-------------------
+2024-03-06 09:19:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 135
+ramUsage : 19.73
+userCount : 1
+./save/backup_2024-03-06_09-18-02.db
+-------------------
+2024-03-06 09:20:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 68
+processCount : 135
+ramUsage : 19.74
+userCount : 1
+./save/backup_2024-03-06_09-19-02.db
+-------------------
+2024-03-06 09:21:02
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 134
+ramUsage : 19.87
+userCount : 1
+./save/backup_2024-03-06_09-20-01.db
+-------------------
+2024-03-06 09:22:01
+-------------------
+cpuUsage : 4,4
+diskUsage : 68
+processCount : 134
+ramUsage : 19.87
+userCount : 1
+./save/backup_2024-03-06_09-21-02.db
+-------------------
+2024-03-06 09:23:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 68
+processCount : 134
+ramUsage : 19.47
+userCount : 1
+./save/backup_2024-03-06_09-22-02.db
+-------------------
+2024-03-06 09:24:01
+-------------------
+cpuUsage : 4,3
+diskUsage : 68
+processCount : 134
+ramUsage : 19.49
+userCount : 1
+./save/backup_2024-03-06_09-23-02.db
+-------------------
+2024-03-06 09:25:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 68
+processCount : 134
+ramUsage : 19.51
+userCount : 1
+./save/backup_2024-03-06_09-24-01.db
+-------------------
+2024-03-06 09:26:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 68
+processCount : 134
+ramUsage : 19.51
+userCount : 1
+./save/backup_2024-03-06_09-25-02.db
+-------------------
+2024-03-06 09:27:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 135
+ramUsage : 19.47
+userCount : 1
+./save/backup_2024-03-06_09-26-02.db
+-------------------
+2024-03-06 09:28:01
+-------------------
+cpuUsage : 4,3
+diskUsage : 68
+processCount : 135
+ramUsage : 19.52
+userCount : 1
+./save/backup_2024-03-06_09-27-02.db
+-------------------
+2024-03-06 09:29:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 135
+ramUsage : 19.85
+userCount : 1
+./save/backup_2024-03-06_09-28-02.db
+-------------------
+2024-03-06 09:30:02
+-------------------
+cpuUsage : 2,2
+diskUsage : 68
+processCount : 135
+ramUsage : 19.90
+userCount : 1
+./save/backup_2024-03-06_09-29-01.db
+-------------------
+2024-03-06 09:31:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 135
+ramUsage : 19.49
+userCount : 1
+./save/backup_2024-03-06_09-30-02.db
+-------------------
+2024-03-06 09:32:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 68
+processCount : 135
+ramUsage : 19.50
+userCount : 1
+./save/backup_2024-03-06_09-31-02.db
+-------------------
+2024-03-06 09:33:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 135
+ramUsage : 19.73
+userCount : 1
+./save/backup_2024-03-06_09-32-02.db
+-------------------
+2024-03-06 09:34:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 134
+ramUsage : 19.65
+userCount : 1
+./save/backup_2024-03-06_09-33-02.db
+-------------------
+2024-03-06 09:35:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 134
+ramUsage : 19.78
+userCount : 1
+./save/backup_2024-03-06_09-34-02.db
+-------------------
+2024-03-06 09:36:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 134
+ramUsage : 19.78
+userCount : 1
+./save/backup_2024-03-06_09-35-01.db
+-------------------
+2024-03-06 09:37:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 134
+ramUsage : 19.78
+userCount : 1
+./save/backup_2024-03-06_09-36-02.db
+-------------------
+2024-03-06 09:38:01
+-------------------
+cpuUsage : 4,8
+diskUsage : 68
+processCount : 134
+ramUsage : 19.81
+userCount : 1
+./save/backup_2024-03-06_09-37-02.db
+-------------------
+2024-03-06 09:39:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 68
+processCount : 134
+ramUsage : 19.80
+userCount : 1
+./save/backup_2024-03-06_09-38-02.db
+-------------------
+2024-03-06 09:40:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 135
+ramUsage : 19.82
+userCount : 1
+./save/backup_2024-03-06_09-39-01.db
+-------------------
+2024-03-06 12:06:44
+-------------------
+cpuUsage : 47,7
+diskUsage : 68
+processCount : 143
+ramUsage : 19.81
+userCount : 1
+./save/backup_2024-03-06_09-40-02.db
+-------------------
+2024-03-06 12:07:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 68
+processCount : 154
+ramUsage : 19.63
+userCount : 1
+./save/backup_2024-03-06_12-06-46.db
+-------------------
+2024-03-06 12:08:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 153
+ramUsage : 28.42
+userCount : 1
+./save/backup_2024-03-06_12-07-02.db
+-------------------
+2024-03-06 12:09:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 153
+ramUsage : 26.02
+userCount : 1
+./save/backup_2024-03-06_12-08-05.db
+-------------------
+2024-03-06 12:10:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 153
+ramUsage : 25.70
+userCount : 1
+./save/backup_2024-03-06_12-09-02.db
+-------------------
+2024-03-06 12:11:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 68
+processCount : 153
+ramUsage : 25.82
+userCount : 1
+./save/backup_2024-03-06_12-10-02.db
+-------------------
+2024-03-06 12:12:01
+-------------------
+cpuUsage : 7,0
+diskUsage : 68
+processCount : 150
+ramUsage : 25.80
+userCount : 1
+./save/backup_2024-03-06_12-11-01.db
+-------------------
+2024-03-06 12:13:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 68
+processCount : 150
+ramUsage : 25.83
+userCount : 1
+./save/backup_2024-03-06_12-12-02.db
+-------------------
+2024-03-06 12:14:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 68
+processCount : 150
+ramUsage : 25.86
+userCount : 1
+./save/backup_2024-03-06_12-13-02.db
+-------------------
+2024-03-06 12:15:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 68
+processCount : 150
+ramUsage : 25.91
+userCount : 1
+./save/backup_2024-03-06_12-14-02.db
+-------------------
+2024-03-06 12:16:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 68
+processCount : 150
+ramUsage : 25.93
+userCount : 1
+./save/backup_2024-03-06_12-15-02.db
+-------------------
+2024-03-06 12:17:42
+-------------------
+cpuUsage : 13,5
+diskUsage : 68
+processCount : 151
+ramUsage : 25.92
+userCount : 1
+./save/backup_2024-03-06_12-16-01.db
+-------------------
+2024-03-06 13:21:06
+-------------------
+cpuUsage : 9,3
+diskUsage : 68
+processCount : 155
+ramUsage : 25.82
+userCount : 1
+./save/backup_2024-03-06_13-21-06.db
+-------------------
+2024-03-06 13:22:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 171
+ramUsage : 27.90
+userCount : 1
+./save/backup_2024-03-06_13-21-07.db
+-------------------
+2024-03-06 13:23:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 171
+ramUsage : 27.93
+userCount : 1
+./save/backup_2024-03-06_13-22-02.db
+-------------------
+2024-03-06 13:24:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 171
+ramUsage : 27.72
+userCount : 1
+./save/backup_2024-03-06_13-23-02.db
+-------------------
+2024-03-06 13:25:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 172
+ramUsage : 27.85
+userCount : 1
+./save/backup_2024-03-06_13-24-02.db
+-------------------
+2024-03-06 13:27:21
+-------------------
+-------------------
+2024-03-06 13:27:21
+-------------------
+cpuUsage : 2,7
+cpuUsage : 7,0
+diskUsage : 69
+diskUsage : 69
+processCount : 176
+processCount : 177
+ramUsage : 27.73
+ramUsage : 27.73
+userCount : 1
+userCount : 1
+Error: in prepare, database is locked (5)
+Error: in prepare, database is locked (5)
+/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/main.sh: line 69: [: : integer expression expected
+./save/backup_2024-03-06_13-27-21.db
+./save/backup_2024-03-06_13-27-22.db
+-------------------
+2024-03-06 13:28:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 185
+ramUsage : 28.15
+userCount : 1
+./save/backup_2024-03-06_13-27-23.db
+-------------------
+2024-03-06 13:29:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 185
+ramUsage : 28.17
+userCount : 1
+./save/backup_2024-03-06_13-28-02.db
+-------------------
+2024-03-06 13:30:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 185
+ramUsage : 28.50
+userCount : 1
+./save/backup_2024-03-06_13-29-02.db
+-------------------
+2024-03-06 13:31:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 69
+processCount : 184
+ramUsage : 28.62
+userCount : 1
+./save/backup_2024-03-06_13-30-02.db
+-------------------
+2024-03-06 14:05:11
+-------------------
+cpuUsage : 48,1
+diskUsage : 69
+processCount : 188
+ramUsage : 28.17
+userCount : 1
+./save/backup_2024-03-06_13-31-02.db
+-------------------
+2024-03-06 14:33:06
+-------------------
+cpuUsage : 46,9
+diskUsage : 69
+processCount : 194
+ramUsage : 28.81
+userCount : 1
+./save/backup_2024-03-06_14-05-12.db
+-------------------
+2024-03-06 14:34:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 199
+ramUsage : 29.04
+userCount : 1
+./save/backup_2024-03-06_14-33-08.db
+-------------------
+2024-03-06 14:36:26
+-------------------
+cpuUsage : 39,0
+diskUsage : 69
+processCount : 227
+ramUsage : 29.05
+userCount : 1
+./save/backup_2024-03-06_14-34-02.db
+-------------------
+2024-03-06 14:36:27
+-------------------
+cpuUsage : 2,2
+diskUsage : 69
+processCount : 223
+ramUsage : 29.26
+userCount : 1
+./save/backup_2024-03-06_14-36-27.db
+-------------------
+2024-03-06 14:37:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 69
+processCount : 223
+ramUsage : 29.54
+userCount : 1
+./save/backup_2024-03-06_14-36-28.db
+-------------------
+2024-03-06 14:38:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 223
+ramUsage : 29.65
+userCount : 1
+./save/backup_2024-03-06_14-37-02.db
+-------------------
+2024-03-06 14:41:03
+-------------------
+cpuUsage : 2,2
+diskUsage : 68
+processCount : 139
+ramUsage : 13.96
+userCount : 0
+./save/backup_2024-03-06_14-38-01.db
+-------------------
+2024-03-06 14:42:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 68
+processCount : 143
+ramUsage : 14.14
+userCount : 0
+./save/backup_2024-03-06_14-41-03.db
+-------------------
+2024-03-06 14:43:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 143
+ramUsage : 13.23
+userCount : 0
+./save/backup_2024-03-06_14-42-02.db
+-------------------
+2024-03-06 14:44:01
+-------------------
+cpuUsage : 4,5
+diskUsage : 68
+processCount : 140
+ramUsage : 13.22
+userCount : 0
+./save/backup_2024-03-06_14-43-02.db
+-------------------
+2024-03-06 14:45:01
+-------------------
+cpuUsage : 2,4
+diskUsage : 68
+processCount : 138
+ramUsage : 13.09
+userCount : 0
+./save/backup_2024-03-06_14-44-02.db
+-------------------
+2024-03-06 14:46:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 132
+ramUsage : 13.09
+userCount : 0
+./save/backup_2024-03-06_14-45-01.db
+-------------------
+2024-03-06 14:47:01
+-------------------
+cpuUsage : 4,4
+diskUsage : 68
+processCount : 132
+ramUsage : 12.80
+userCount : 0
+./save/backup_2024-03-06_14-46-02.db
+-------------------
+2024-03-06 14:48:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 132
+ramUsage : 12.87
+userCount : 0
+./save/backup_2024-03-06_14-47-02.db
+-------------------
+2024-03-06 14:49:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 68
+processCount : 130
+ramUsage : 12.83
+userCount : 0
+./save/backup_2024-03-06_14-48-01.db
+-------------------
+2024-03-06 14:50:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 132
+ramUsage : 25.05
+userCount : 0
+./save/backup_2024-03-06_14-49-02.db
+-------------------
+2024-03-06 14:51:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 68
+processCount : 130
+ramUsage : 21.59
+userCount : 0
+./save/backup_2024-03-06_14-50-02.db
+-------------------
+2024-03-06 14:52:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 68
+processCount : 130
+ramUsage : 21.65
+userCount : 0
+./save/backup_2024-03-06_14-51-02.db
+-------------------
+2024-03-06 15:05:01
+-------------------
+cpuUsage : 56,7
+diskUsage : 69
+processCount : 144
+ramUsage : 23.87
+userCount : 0
+./save/backup_2024-03-06_14-52-02.db
+-------------------
+2024-03-06 15:06:02
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 138
+ramUsage : 24.95
+userCount : 0
+./save/backup_2024-03-06_15-05-02.db
+-------------------
+2024-03-06 15:07:01
+-------------------
+cpuUsage : 4,4
+diskUsage : 69
+processCount : 138
+ramUsage : 22.03
+userCount : 0
+./save/backup_2024-03-06_15-06-03.db
+-------------------
+2024-03-06 15:08:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 69
+processCount : 138
+ramUsage : 21.62
+userCount : 0
+./save/backup_2024-03-06_15-07-02.db
+-------------------
+2024-03-06 15:09:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 138
+ramUsage : 21.77
+userCount : 0
+./save/backup_2024-03-06_15-08-02.db
+-------------------
+2024-03-06 15:10:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 69
+processCount : 132
+ramUsage : 21.85
+userCount : 0
+./save/backup_2024-03-06_15-09-02.db
+-------------------
+2024-03-06 15:11:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 69
+processCount : 132
+ramUsage : 22.90
+userCount : 0
+./save/backup_2024-03-06_15-10-02.db
+-------------------
+2024-03-06 15:12:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 132
+ramUsage : 23.08
+userCount : 0
+./save/backup_2024-03-06_15-11-02.db
+-------------------
+2024-03-06 15:13:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 132
+ramUsage : 22.90
+userCount : 0
+./save/backup_2024-03-06_15-12-02.db
+-------------------
+2024-03-06 15:14:02
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 132
+ramUsage : 23.09
+userCount : 0
+0
+./save/backup_2024-03-06_15-13-41.db
+/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/main.sh: line 103: syntax error: unexpected end of file
+-------------------
+2024-03-06 15:15:01
+-------------------
+cpuUsage : 4,4
+diskUsage : 69
+processCount : 131
+ramUsage : 23.26
+userCount : 0
+./save/backup_2024-03-06_15-14-55.db
+-------------------
+2024-03-06 15:16:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 69
+processCount : 130
+ramUsage : 23.59
+userCount : 0
+Error: in prepare, near "(": syntax error (1)
+
+./save/backup_2024-03-06_15-15-45.db
+-------------------
+2024-03-06 15:17:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 69
+processCount : 130
+ramUsage : 23.58
+userCount : 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+./save/backup_2024-03-06_15-16-28.db
+-------------------
+2024-03-06 15:18:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 130
+ramUsage : 23.72
+userCount : 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+./save/backup_2024-03-06_15-17-45.db
+-------------------
+2024-03-06 15:19:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 130
+ramUsage : 23.74
+userCount : 0
+222
+./save/backup_2024-03-06_15-18-51.db
+-------------------
+2024-03-06 15:20:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 131
+ramUsage : 23.67
+userCount : 0
+223
+./save/backup_2024-03-06_15-19-02.db
+-------------------
+2024-03-06 15:21:01
+-------------------
+cpuUsage : 4,2
+diskUsage : 69
+processCount : 131
+ramUsage : 23.48
+userCount : 0
+./save/backup_2024-03-06_15-20-01.db
+-------------------
+2024-03-06 15:22:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 69
+processCount : 131
+ramUsage : 23.67
+userCount : 0
+./save/backup_2024-03-06_15-20-01.db
+-------------------
+2024-03-06 15:23:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 131
+ramUsage : 23.71
+userCount : 0
+./save/backup_2024-03-06_15-20-01.db
+-------------------
+2024-03-06 15:24:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 131
+ramUsage : 23.04
+userCount : 0
+./save/backup_2024-03-06_15-23-36.db
+-------------------
+2024-03-06 15:25:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 69
+processCount : 130
+ramUsage : 23.82
+userCount : 0
+-------------------
+2024-03-06 15:26:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 130
+ramUsage : 23.97
+userCount : 0
+-------------------
+2024-03-06 15:27:01
+-------------------
+cpuUsage : 2,4
+diskUsage : 69
+processCount : 130
+ramUsage : 23.73
+userCount : 0
+-------------------
+2024-03-06 15:28:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 130
+ramUsage : 23.72
+userCount : 0
+Alerte ins√©r√©e : CERTFR-2024-ALE-001
+Alerte ins√©r√©e : CERTFR-2024-ALE-003
+Alerte ins√©r√©e : CERTFR-2024-ALE-005
+Alerte ins√©r√©e : CERTFR-2024-ALE-004
+Alerte ins√©r√©e : CERTFR-2024-ALE-002
+-------------------
+2024-03-06 15:29:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 131
+ramUsage : 23.64
+userCount : 0
+-------------------
+2024-03-06 15:30:02
+-------------------
+cpuUsage : 7,1
+diskUsage : 69
+processCount : 131
+ramUsage : 24.18
+userCount : 0
+-------------------
+2024-03-06 15:31:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 131
+ramUsage : 24.07
+userCount : 0
+Sauvegarde de la Database
+-------------------
+2024-03-06 15:32:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 69
+processCount : 134
+ramUsage : 24.39
+userCount : 0
+-------------------
+2024-03-06 15:33:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 131
+ramUsage : 24.31
+userCount : 0
+-------------------
+2024-03-06 15:34:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 130
+ramUsage : 24.31
+userCount : 0
+-------------------
+2024-03-06 15:35:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 130
+ramUsage : 24.14
+userCount : 0
+-------------------
+2024-03-06 15:36:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 130
+ramUsage : 23.84
+userCount : 0
+-------------------
+2024-03-06 15:37:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 130
+ramUsage : 24.05
+userCount : 0
+-------------------
+2024-03-06 15:38:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 130
+ramUsage : 23.60
+userCount : 0
+-------------------
+2024-03-06 15:39:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 130
+ramUsage : 23.62
+userCount : 0
+-------------------
+2024-03-06 15:40:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 130
+ramUsage : 23.78
+userCount : 0
+-------------------
+2024-03-06 15:41:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 130
+ramUsage : 24.24
+userCount : 0
+-------------------
+2024-03-06 15:42:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 69
+processCount : 130
+ramUsage : 24.23
+userCount : 0
+-------------------
+2024-03-06 15:43:01
+-------------------
+cpuUsage : 7,1
+diskUsage : 69
+processCount : 130
+ramUsage : 24.04
+userCount : 0
+Sauvegarde de la Database
+-------------------
+2024-03-06 15:44:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 130
+ramUsage : 24.72
+userCount : 0
+-------------------
+2024-03-06 15:45:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 69
+processCount : 130
+ramUsage : 24.75
+userCount : 0
+-------------------
+2024-03-06 15:46:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 69
+processCount : 130
+ramUsage : 24.72
+userCount : 0
+-------------------
+2024-03-06 15:47:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 69
+processCount : 130
+ramUsage : 24.94
+userCount : 0
+-------------------
+2024-03-06 15:48:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 69
+processCount : 131
+ramUsage : 24.90
+userCount : 0
+-------------------
+2024-03-06 15:49:01
+-------------------
+cpuUsage : 10,2
+diskUsage : 71
+processCount : 138
+ramUsage : 25.44
+userCount : 1
+-------------------
+2024-03-06 15:50:01
+-------------------
+cpuUsage : 11,4
+diskUsage : 72
+processCount : 141
+ramUsage : 25.19
+userCount : 0
+-------------------
+2024-03-06 15:51:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 72
+processCount : 134
+ramUsage : 24.67
+userCount : 0
+-------------------
+2024-03-06 15:52:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 72
+processCount : 134
+ramUsage : 25.55
+userCount : 0
+-------------------
+2024-03-06 15:53:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 72
+processCount : 133
+ramUsage : 25.14
+userCount : 0
+Graphique g√©n√©r√© avec succ√®s
+Error: in prepare, no such table: monitoring (1)
+         line 0: warning: Skipping data file with no valid points
+
+gnuplot> plot "data.csv" using 1:2 with lines title "CPU Usage"
+                                                               ^
+         line 0: x range is invalid
+
+-------------------
+2024-03-06 15:54:01
+-------------------
+cpuUsage : 20,9
+diskUsage : 72
+processCount : 136
+ramUsage : 25.32
+userCount : 0
+Graphique g√©n√©r√© avec succ√®s
+-------------------
+2024-03-06 15:55:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 72
+processCount : 131
+ramUsage : 25.59
+userCount : 0
+Graphique g√©n√©r√© avec succ√®s
+-------------------
+2024-03-06 15:56:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 72
+processCount : 132
+ramUsage : 25.75
+userCount : 0
+Graphique g√©n√©r√© avec succ√®s
+-------------------
+2024-03-06 15:57:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 72
+processCount : 132
+ramUsage : 25.60
+userCount : 0
+Graphique g√©n√©r√© avec succ√®s
+-------------------
+2024-03-06 15:58:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 72
+processCount : 132
+ramUsage : 25.22
+userCount : 0
+Graphique g√©n√©r√© avec succ√®s
+-------------------
+2024-03-06 15:59:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 72
+processCount : 132
+ramUsage : 25.21
+userCount : 0
+-------------------
+2024-03-06 16:00:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 72
+processCount : 132
+ramUsage : 25.55
+userCount : 0
+-------------------
+2024-03-06 16:01:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 72
+processCount : 131
+ramUsage : 25.20
+userCount : 0
+-------------------
+2024-03-06 16:02:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 72
+processCount : 131
+ramUsage : 25.55
+userCount : 0
+-------------------
+2024-03-06 16:03:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 72
+processCount : 131
+ramUsage : 25.79
+userCount : 0
+-------------------
+2024-03-06 16:04:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 72
+processCount : 131
+ramUsage : 25.91
+userCount : 0
+-------------------
+2024-03-06 16:05:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 72
+processCount : 131
+ramUsage : 25.89
+userCount : 0
+-------------------
+2024-03-06 16:06:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 72
+processCount : 131
+ramUsage : 25.71
+userCount : 0
+-------------------
+2024-03-06 16:07:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 72
+processCount : 131
+ramUsage : 25.55
+userCount : 0
+Sauvegarde de la Database
+-------------------
+2024-03-06 16:08:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 72
+processCount : 131
+ramUsage : 25.90
+userCount : 0
+bash: graph/sonde_graph.sh: No such file or directory
+-------------------
+2024-03-06 16:09:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 72
+processCount : 131
+ramUsage : 25.67
+userCount : 0
+-------------------
+2024-03-06 16:10:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 72
+processCount : 131
+ramUsage : 25.27
+userCount : 0
+-------------------
+2024-03-06 16:11:02
+-------------------
+cpuUsage : 4,7
+diskUsage : 72
+processCount : 131
+ramUsage : 25.33
+userCount : 0
+-------------------
+2024-03-06 16:12:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 72
+processCount : 133
+ramUsage : 14.79
+userCount : 0
+-------------------
+2024-03-06 16:13:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 72
+processCount : 133
+ramUsage : 13.84
+userCount : 0
+-------------------
+2024-03-06 16:14:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 72
+processCount : 131
+ramUsage : 14.32
+userCount : 0
+-------------------
+2024-03-13 14:41:01
+-------------------
+cpuUsage : 15,9
+diskUsage : 74
+processCount : 137
+ramUsage : 14.12
+userCount : 0
+Sauvegarde de la Database
+-------------------
+2024-03-13 14:42:01
+-------------------
+cpuUsage : 1,9
+diskUsage : 75
+processCount : 139
+ramUsage : 14.81
+userCount : 0
+-------------------
+2024-03-13 14:43:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 75
+processCount : 139
+ramUsage : 14.08
+userCount : 0
+-------------------
+2024-03-13 14:44:02
+-------------------
+cpuUsage : 2,1
+diskUsage : 75
+processCount : 140
+ramUsage : 13.92
+userCount : 0
+-------------------
+2024-03-13 14:45:01
+-------------------
+cpuUsage : 3,7
+diskUsage : 75
+processCount : 137
+ramUsage : 14.21
+userCount : 0
+-------------------
+2024-03-13 14:46:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 75
+processCount : 130
+ramUsage : 14.35
+userCount : 0
+-------------------
+2024-03-13 14:47:01
+-------------------
+cpuUsage : 2,0
+diskUsage : 75
+processCount : 132
+ramUsage : 23.05
+userCount : 0
+-------------------
+2024-03-13 14:48:01
+-------------------
+cpuUsage : 2,0
+diskUsage : 75
+processCount : 132
+ramUsage : 21.34
+userCount : 0
+-------------------
+2024-03-13 14:49:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 75
+processCount : 132
+ramUsage : 21.37
+userCount : 0
+-------------------
+2024-03-13 14:50:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 75
+processCount : 132
+ramUsage : 20.99
+userCount : 0
+-------------------
+2024-03-13 14:51:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 75
+processCount : 132
+ramUsage : 21.51
+userCount : 0
+-------------------
+2024-03-13 14:52:01
+-------------------
+cpuUsage : 11,6
+diskUsage : 75
+processCount : 131
+ramUsage : 22.24
+userCount : 0
+Sauvegarde de la Database
+-------------------
+2024-03-13 14:53:01
+-------------------
+cpuUsage : 4,7
+diskUsage : 75
+processCount : 136
+ramUsage : 23.20
+userCount : 0
+-------------------
+2024-03-13 14:54:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 75
+processCount : 131
+ramUsage : 23.24
+userCount : 0
+-------------------
+2024-03-13 14:55:01
+-------------------
+cpuUsage : 4,3
+diskUsage : 75
+processCount : 131
+ramUsage : 23.18
+userCount : 0
+-------------------
+2024-03-13 14:56:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 75
+processCount : 131
+ramUsage : 23.11
+userCount : 0
+-------------------
+2024-03-13 14:57:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 75
+processCount : 131
+ramUsage : 23.06
+userCount : 0
+-------------------
+2024-03-13 14:58:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 75
+processCount : 131
+ramUsage : 23.09
+userCount : 0
+Sauvegarde de la Database
+-------------------
+2024-03-13 14:59:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 75
+processCount : 131
+ramUsage : 23.12
+userCount : 0
+-------------------
+2024-03-13 15:00:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 75
+processCount : 131
+ramUsage : 23.07
+userCount : 0
+-------------------
+2024-03-13 15:01:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 75
+processCount : 131
+ramUsage : 25.82
+userCount : 0
+-------------------
+2024-03-13 15:02:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 75
+processCount : 131
+ramUsage : 24.02
+userCount : 0
+-------------------
+2024-03-13 15:03:01
+-------------------
+cpuUsage : 3,7
+diskUsage : 75
+processCount : 131
+ramUsage : 23.80
+userCount : 0
+-------------------
+2024-03-13 15:04:01
+-------------------
+cpuUsage : 1,9
+diskUsage : 75
+processCount : 131
+ramUsage : 23.42
+userCount : 0
+-------------------
+2024-03-13 15:05:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 75
+processCount : 131
+ramUsage : 23.41
+userCount : 0
+Sauvegarde de la Database
+                                                                                                                                            -------------------
+2024-03-13 15:07:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 74
+processCount : 142
+ramUsage : 6.19
+userCount : 0
+-------------------
+2024-03-13 15:08:02
+-------------------
+cpuUsage : 27,3
+diskUsage : 74
+processCount : 145
+ramUsage : 17.24
+userCount : 1
+-------------------
+2024-03-13 15:09:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 74
+processCount : 145
+ramUsage : 15.29
+userCount : 1
+-------------------
+2024-03-13 15:10:01
+-------------------
+cpuUsage : 1,9
+diskUsage : 74
+processCount : 141
+ramUsage : 13.80
+userCount : 1
+-------------------
+2024-03-13 15:11:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 74
+processCount : 141
+ramUsage : 13.48
+userCount : 1
+-------------------
+2024-03-13 15:12:01
+-------------------
+cpuUsage : 4,3
+diskUsage : 74
+processCount : 132
+ramUsage : 13.89
+userCount : 1
+Error: in prepare, no such column: date_heure_scan (1)
+-------------------
+2024-03-13 15:13:01
+-------------------
+cpuUsage : 2,0
+diskUsage : 74
+processCount : 130
+ramUsage : 14.23
+userCount : 1
+Error: in prepare, no such column: date_heure_scan (1)
+-------------------
+2024-03-13 15:14:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 74
+processCount : 130
+ramUsage : 14.24
+userCount : 1
+Error: in prepare, no such column: date_heure_scan (1)
+-------------------
+2024-03-13 15:15:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 74
+processCount : 130
+ramUsage : 14.24
+userCount : 1
+Error: in prepare, no such column: date_heure_scan (1)
+-------------------
+2024-03-13 15:16:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 74
+processCount : 130
+ramUsage : 13.98
+userCount : 1
+Error: in prepare, no such column: date_heure_scan (1)
+-------------------
+2024-03-13 15:17:01
+-------------------
+cpuUsage : 4,7
+diskUsage : 74
+processCount : 131
+ramUsage : 23.90
+userCount : 1
+-------------------
+2024-03-13 15:18:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 74
+processCount : 131
+ramUsage : 22.62
+userCount : 1
+-------------------
+2024-03-13 15:19:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 74
+processCount : 131
+ramUsage : 22.51
+userCount : 1
+-------------------
+2024-03-13 15:20:02
+-------------------
+cpuUsage : 0,0
+diskUsage : 74
+processCount : 132
+ramUsage : 22.52
+userCount : 1
+-------------------
+2024-03-13 15:21:02
+-------------------
+cpuUsage : 1,2
+diskUsage : 74
+processCount : 132
+ramUsage : 22.52
+userCount : 1
+-------------------
+2024-03-13 15:22:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 74
+processCount : 133
+ramUsage : 22.17
+userCount : 1
+latest_row : 2|9.0|5.0|4.0|65|54|5
+-------------------
+2024-03-13 15:23:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 74
+processCount : 133
+ramUsage : 22.28
+userCount : 1
+-------------------
+2024-03-13 15:24:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 74
+processCount : 133
+ramUsage : 22.37
+userCount : 1
+Usage: awk [POSIX or GNU style options] -f progfile [--] file ...
+Usage: awk [POSIX or GNU style options] [--] 'program' file ...
+POSIX options:		GNU long options: (standard)
+	-f progfile		--file=progfile
+	-F fs			--field-separator=fs
+	-v var=val		--assign=var=val
+Short options:		GNU long options: (extensions)
+	-b			--characters-as-bytes
+	-c			--traditional
+	-C			--copyright
+	-d[file]		--dump-variables[=file]
+	-D[file]		--debug[=file]
+	-e 'program-text'	--source='program-text'
+	-E file			--exec=file
+	-g			--gen-pot
+	-h			--help
+	-i includefile		--include=includefile
+	-l library		--load=library
+	-L[fatal|invalid|no-ext]	--lint[=fatal|invalid|no-ext]
+	-M			--bignum
+	-N			--use-lc-numeric
+	-n			--non-decimal-data
+	-o[file]		--pretty-print[=file]
+	-O			--optimize
+	-p[file]		--profile[=file]
+	-P			--posix
+	-r			--re-interval
+	-s			--no-optimize
+	-S			--sandbox
+	-t			--lint-old
+	-V			--version
+
+To report bugs, see node `Bugs' in `gawk.info'
+which is section `Reporting Problems and Bugs' in the
+printed version.  This same information may be found at
+https://www.gnu.org/software/gawk/manual/html_node/Bugs.html.
+PLEASE do NOT try to report bugs by posting in comp.lang.awk,
+or by using a web forum such as Stack Overflow.
+
+gawk is a pattern scanning and processing language.
+By default it reads standard input and writes standard output.
+
+Examples:
+	awk '{ sum += $1 }; END { print sum }' file
+	awk -F: '{ print $1 }' /etc/passwd
+-------------------
+2024-03-13 15:25:02
+-------------------
+cpuUsage : 0,0
+diskUsage : 74
+processCount : 133
+ramUsage : 22.21
+userCount : 1
+Usage: awk [POSIX or GNU style options] -f progfile [--] file ...
+Usage: awk [POSIX or GNU style options] [--] 'program' file ...
+POSIX options:		GNU long options: (standard)
+	-f progfile		--file=progfile
+	-F fs			--field-separator=fs
+	-v var=val		--assign=var=val
+Short options:		GNU long options: (extensions)
+	-b			--characters-as-bytes
+	-c			--traditional
+	-C			--copyright
+	-d[file]		--dump-variables[=file]
+	-D[file]		--debug[=file]
+	-e 'program-text'	--source='program-text'
+	-E file			--exec=file
+	-g			--gen-pot
+	-h			--help
+	-i includefile		--include=includefile
+	-l library		--load=library
+	-L[fatal|invalid|no-ext]	--lint[=fatal|invalid|no-ext]
+	-M			--bignum
+	-N			--use-lc-numeric
+	-n			--non-decimal-data
+	-o[file]		--pretty-print[=file]
+	-O			--optimize
+	-p[file]		--profile[=file]
+	-P			--posix
+	-r			--re-interval
+	-s			--no-optimize
+	-S			--sandbox
+	-t			--lint-old
+	-V			--version
+
+To report bugs, see node `Bugs' in `gawk.info'
+which is section `Reporting Problems and Bugs' in the
+printed version.  This same information may be found at
+https://www.gnu.org/software/gawk/manual/html_node/Bugs.html.
+PLEASE do NOT try to report bugs by posting in comp.lang.awk,
+or by using a web forum such as Stack Overflow.
+
+gawk is a pattern scanning and processing language.
+By default it reads standard input and writes standard output.
+
+Examples:
+	awk '{ sum += $1 }; END { print sum }' file
+	awk -F: '{ print $1 }' /etc/passwd
+-------------------
+2024-03-13 15:26:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 74
+processCount : 133
+ramUsage : 22.25
+userCount : 1
+Usage: awk [POSIX or GNU style options] -f progfile [--] file ...
+Usage: awk [POSIX or GNU style options] [--] 'program' file ...
+POSIX options:		GNU long options: (standard)
+	-f progfile		--file=progfile
+	-F fs			--field-separator=fs
+	-v var=val		--assign=var=val
+Short options:		GNU long options: (extensions)
+	-b			--characters-as-bytes
+	-c			--traditional
+	-C			--copyright
+	-d[file]		--dump-variables[=file]
+	-D[file]		--debug[=file]
+	-e 'program-text'	--source='program-text'
+	-E file			--exec=file
+	-g			--gen-pot
+	-h			--help
+	-i includefile		--include=includefile
+	-l library		--load=library
+	-L[fatal|invalid|no-ext]	--lint[=fatal|invalid|no-ext]
+	-M			--bignum
+	-N			--use-lc-numeric
+	-n			--non-decimal-data
+	-o[file]		--pretty-print[=file]
+	-O			--optimize
+	-p[file]		--profile[=file]
+	-P			--posix
+	-r			--re-interval
+	-s			--no-optimize
+	-S			--sandbox
+	-t			--lint-old
+	-V			--version
+
+To report bugs, see node `Bugs' in `gawk.info'
+which is section `Reporting Problems and Bugs' in the
+printed version.  This same information may be found at
+https://www.gnu.org/software/gawk/manual/html_node/Bugs.html.
+PLEASE do NOT try to report bugs by posting in comp.lang.awk,
+or by using a web forum such as Stack Overflow.
+
+gawk is a pattern scanning and processing language.
+By default it reads standard input and writes standard output.
+
+Examples:
+	awk '{ sum += $1 }; END { print sum }' file
+	awk -F: '{ print $1 }' /etc/passwd
+-------------------
+2024-03-13 15:27:02
+-------------------
+cpuUsage : 2,2
+diskUsage : 74
+processCount : 135
+ramUsage : 22.38
+userCount : 1
+Sauvegarde de la Database
+Usage: awk [POSIX or GNU style options] -f progfile [--] file ...
+Usage: awk [POSIX or GNU style options] [--] 'program' file ...
+POSIX options:		GNU long options: (standard)
+	-f progfile		--file=progfile
+	-F fs			--field-separator=fs
+	-v var=val		--assign=var=val
+Short options:		GNU long options: (extensions)
+	-b			--characters-as-bytes
+	-c			--traditional
+	-C			--copyright
+	-d[file]		--dump-variables[=file]
+	-D[file]		--debug[=file]
+	-e 'program-text'	--source='program-text'
+	-E file			--exec=file
+	-g			--gen-pot
+	-h			--help
+	-i includefile		--include=includefile
+	-l library		--load=library
+	-L[fatal|invalid|no-ext]	--lint[=fatal|invalid|no-ext]
+	-M			--bignum
+	-N			--use-lc-numeric
+	-n			--non-decimal-data
+	-o[file]		--pretty-print[=file]
+	-O			--optimize
+	-p[file]		--profile[=file]
+	-P			--posix
+	-r			--re-interval
+	-s			--no-optimize
+	-S			--sandbox
+	-t			--lint-old
+	-V			--version
+
+To report bugs, see node `Bugs' in `gawk.info'
+which is section `Reporting Problems and Bugs' in the
+printed version.  This same information may be found at
+https://www.gnu.org/software/gawk/manual/html_node/Bugs.html.
+PLEASE do NOT try to report bugs by posting in comp.lang.awk,
+or by using a web forum such as Stack Overflow.
+
+gawk is a pattern scanning and processing language.
+By default it reads standard input and writes standard output.
+
+Examples:
+	awk '{ sum += $1 }; END { print sum }' file
+	awk -F: '{ print $1 }' /etc/passwd
+-------------------
+2024-03-13 15:28:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 74
+processCount : 132
+ramUsage : 22.47
+userCount : 1
+latest_row : 2|9.0|5.0|4.0|65|54|5
+-------------------
+2024-03-13 15:29:01
+-------------------
+cpuUsage : 4,2
+diskUsage : 74
+processCount : 132
+ramUsage : 22.46
+userCount : 1
+latest_row : 2|9.0|5.0|4.0|65|54|5
+-------------------
+2024-03-13 15:30:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 74
+processCount : 132
+ramUsage : 22.44
+userCount : 1
+latest_row : 2|9.0|5.0|4.0|65|54|5
+-------------------
+2024-03-13 15:31:02
+-------------------
+cpuUsage : 0,0
+diskUsage : 74
+processCount : 132
+ramUsage : 22.25
+userCount : 1
+latest_row : 2|9.0|5.0|4.0|65|54|5
+-------------------
+2024-03-13 15:32:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 74
+processCount : 132
+ramUsage : 26.31
+userCount : 1
+Sauvegarde de la Database
+limit_data : 5
+-------------------
+2024-03-13 15:33:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 74
+processCount : 132
+ramUsage : 25.10
+userCount : 1
+limit_data : 1
+-------------------
+2024-03-13 15:34:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 74
+processCount : 132
+ramUsage : 25.43
+userCount : 1
+limit_data : 1
+Warning: empty x range [1.71034e+09:1.71034e+09], adjusting to [1.69324e+09:1.72744e+09]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-13 15:35:01
+-------------------
+cpuUsage : 2,0
+diskUsage : 74
+processCount : 132
+ramUsage : 25.87
+userCount : 1
+-------------------
+2024-03-13 15:36:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 74
+processCount : 131
+ramUsage : 25.86
+userCount : 1
+-------------------
+2024-03-13 15:37:01
+-------------------
+cpuUsage : 4,1
+diskUsage : 74
+processCount : 131
+ramUsage : 25.84
+userCount : 1
+-------------------
+2024-03-13 15:38:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 74
+processCount : 132
+ramUsage : 25.87
+userCount : 1
+-------------------
+2024-03-13 15:39:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 74
+processCount : 132
+ramUsage : 26.20
+userCount : 1
+-------------------
+2024-03-13 15:40:01
+-------------------
+cpuUsage : 23,8
+diskUsage : 74
+processCount : 134
+ramUsage : 26.05
+userCount : 1
+rm: cannot remove 'data.csv': No such file or directory
+-------------------
+2024-03-13 15:41:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 74
+processCount : 132
+ramUsage : 25.83
+userCount : 1
+-------------------
+2024-03-13 15:42:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 74
+processCount : 132
+ramUsage : 25.81
+userCount : 1
+Warning: empty y range [74:74], adjusting to [73.26:74.74]
+-------------------
+2024-03-13 15:43:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 74
+processCount : 132
+ramUsage : 25.91
+userCount : 1
+Warning: empty y range [74:74], adjusting to [73.26:74.74]
+-------------------
+2024-03-13 15:44:01
+-------------------
+cpuUsage : 2,0
+diskUsage : 74
+processCount : 132
+ramUsage : 25.93
+userCount : 1
+Warning: empty y range [74:74], adjusting to [73.26:74.74]
+-------------------
+2024-03-13 15:45:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 74
+processCount : 132
+ramUsage : 26.19
+userCount : 1
+Warning: empty y range [74:74], adjusting to [73.26:74.74]
+-------------------
+2024-03-13 15:46:01
+-------------------
+cpuUsage : 21,7
+diskUsage : 74
+processCount : 134
+ramUsage : 26.32
+userCount : 1
+Warning: empty y range [74:74], adjusting to [73.26:74.74]
+Warning: empty y range [1:1], adjusting to [0.99:1.01]
+-------------------
+2024-03-13 15:47:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 74
+processCount : 134
+ramUsage : 26.23
+userCount : 1
+Warning: empty y range [74:74], adjusting to [73.26:74.74]
+Warning: empty y range [1:1], adjusting to [0.99:1.01]
+-------------------
+2024-03-13 15:48:01
+-------------------
+cpuUsage : 2,8
+diskUsage : 74
+processCount : 131
+ramUsage : 26.61
+userCount : 1
+-------------------
+2024-03-13 15:49:01
+-------------------
+cpuUsage : 1,9
+diskUsage : 74
+processCount : 132
+ramUsage : 26.66
+userCount : 1
+Warning: empty y range [74:74], adjusting to [73.26:74.74]
+Warning: empty y range [1:1], adjusting to [0.99:1.01]
+-------------------
+2024-03-13 15:50:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 74
+processCount : 132
+ramUsage : 26.24
+userCount : 1
+Warning: empty y range [74:74], adjusting to [73.26:74.74]
+Warning: empty y range [1:1], adjusting to [0.99:1.01]
+-------------------
+2024-03-13 15:51:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 74
+processCount : 132
+ramUsage : 26.65
+userCount : 1
+Warning: empty y range [74:74], adjusting to [73.26:74.74]
+Warning: empty y range [1:1], adjusting to [0.99:1.01]
+-------------------
+2024-03-13 15:52:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 74
+processCount : 132
+ramUsage : 26.70
+userCount : 1
+Warning: empty y range [74:74], adjusting to [73.26:74.74]
+Warning: empty y range [1:1], adjusting to [0.99:1.01]
+-------------------
+2024-03-13 15:53:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 74
+processCount : 132
+ramUsage : 26.72
+userCount : 1
+Warning: empty y range [74:74], adjusting to [73.26:74.74]
+Warning: empty y range [1:1], adjusting to [0.99:1.01]
+-------------------
+2024-03-13 15:54:01
+-------------------
+cpuUsage : 2,5
+diskUsage : 74
+processCount : 129
+ramUsage : 13.29
+userCount : 1
+Warning: empty y range [74:74], adjusting to [73.26:74.74]
+Warning: empty y range [1:1], adjusting to [0.99:1.01]
+-------------------
+2024-03-13 15:55:01
+-------------------
+cpuUsage : 18,5
+diskUsage : 74
+processCount : 134
+ramUsage : 17.73
+userCount : 1
+Warning: empty y range [74:74], adjusting to [73.26:74.74]
+Warning: empty y range [1:1], adjusting to [0.99:1.01]
+-------------------
+2024-03-13 15:56:02
+-------------------
+cpuUsage : 2,2
+diskUsage : 74
+processCount : 132
+ramUsage : 15.12
+userCount : 1
+Warning: empty y range [74:74], adjusting to [73.26:74.74]
+Warning: empty y range [1:1], adjusting to [0.99:1.01]
+-------------------
+2024-03-13 15:57:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 74
+processCount : 131
+ramUsage : 14.77
+userCount : 1
+Warning: empty y range [74:74], adjusting to [73.26:74.74]
+Warning: empty y range [1:1], adjusting to [0.99:1.01]
+-------------------
+2024-03-13 15:58:01
+-------------------
+cpuUsage : 1,6
+diskUsage : 74
+processCount : 131
+ramUsage : 14.86
+userCount : 1
+Warning: empty y range [74:74], adjusting to [73.26:74.74]
+Warning: empty y range [1:1], adjusting to [0.99:1.01]
+-------------------
+2024-03-13 19:18:05
+-------------------
+cpuUsage : 10,7
+diskUsage : 74
+processCount : 125
+ramUsage : 5.64
+userCount : 1
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 395, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.10/http/client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.10/http/client.py", line 976, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f93e91d5f60>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 756, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='www.cert.ssi.gouv.fr', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f93e91d5f60>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/sondes/getCertAlert.py", line 16, in <module>
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 544, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 657, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='www.cert.ssi.gouv.fr', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f93e91d5f60>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Warning: empty y range [74:74], adjusting to [73.26:74.74]
+Warning: empty y range [1:1], adjusting to [0.99:1.01]
+-------------------
+2024-03-13 19:19:02
+-------------------
+cpuUsage : 1,0
+diskUsage : 74
+processCount : 125
+ramUsage : 5.59
+userCount : 1
+Warning: empty y range [74:74], adjusting to [73.26:74.74]
+Warning: empty y range [1:1], adjusting to [0.99:1.01]
+                                                                                                                                                                                                                                                                                       -------------------
+2024-03-20 15:48:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 74
+processCount : 132
+ramUsage : 5.29
+userCount : 0
+Warning: empty y range [74:74], adjusting to [73.26:74.74]
+-------------------
+2024-03-20 15:49:03
+-------------------
+cpuUsage : 0,0
+diskUsage : 74
+processCount : 131
+ramUsage : 4.72
+userCount : 0
+Warning: empty y range [74:74], adjusting to [73.26:74.74]
+-------------------
+2024-03-20 15:50:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 135
+ramUsage : 12.82
+userCount : 0
+-------------------
+2024-03-20 15:51:01
+-------------------
+cpuUsage : 32,6
+diskUsage : 76
+processCount : 142
+ramUsage : 14.44
+userCount : 0
+-------------------
+2024-03-20 15:52:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 76
+processCount : 140
+ramUsage : 14.29
+userCount : 0
+-------------------
+2024-03-20 15:53:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 76
+processCount : 130
+ramUsage : 15.46
+userCount : 0
+-------------------
+2024-03-20 15:54:01
+-------------------
+cpuUsage : 17,1
+diskUsage : 76
+processCount : 132
+ramUsage : 15.06
+userCount : 0
+-------------------
+2024-03-20 15:55:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 14.75
+userCount : 0
+-------------------
+2024-03-20 15:56:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 134
+ramUsage : 14.60
+userCount : 0
+-------------------
+2024-03-20 15:57:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 14.56
+userCount : 0
+Sauvegarde de la Database
+-------------------
+2024-03-20 15:58:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 76
+processCount : 131
+ramUsage : 14.53
+userCount : 0
+-------------------
+2024-03-20 15:59:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 134
+ramUsage : 15.10
+userCount : 0
+-------------------
+2024-03-20 16:00:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 134
+ramUsage : 15.39
+userCount : 0
+-------------------
+2024-03-20 16:01:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 15.38
+userCount : 0
+-------------------
+2024-03-20 16:02:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 130
+ramUsage : 14.81
+userCount : 0
+-------------------
+2024-03-20 16:03:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 130
+ramUsage : 14.64
+userCount : 0
+-------------------
+2024-03-20 16:04:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 130
+ramUsage : 15.47
+userCount : 0
+-------------------
+2024-03-20 16:05:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 128
+ramUsage : 15.44
+userCount : 0
+-------------------
+2024-03-20 16:06:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 128
+ramUsage : 15.58
+userCount : 0
+-------------------
+2024-03-20 16:07:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 129
+ramUsage : 15.55
+userCount : 0
+Sauvegarde de la Database
+-------------------
+2024-03-20 16:08:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 129
+ramUsage : 15.58
+userCount : 0
+-------------------
+2024-03-20 16:09:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 129
+ramUsage : 15.57
+userCount : 0
+-------------------
+2024-03-20 16:10:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 129
+ramUsage : 15.22
+userCount : 0
+-------------------
+2024-03-20 16:11:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 76
+processCount : 129
+ramUsage : 15.33
+userCount : 0
+-------------------
+2024-03-20 16:12:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 128
+ramUsage : 15.32
+userCount : 0
+-------------------
+2024-03-20 16:13:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 128
+ramUsage : 15.31
+userCount : 0
+-------------------
+2024-03-20 16:14:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 128
+ramUsage : 15.25
+userCount : 0
+-------------------
+2024-03-20 16:15:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 129
+ramUsage : 15.49
+userCount : 0
+-------------------
+2024-03-20 16:16:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 129
+ramUsage : 14.99
+userCount : 0
+-------------------
+2024-03-20 16:17:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 129
+ramUsage : 14.98
+userCount : 0
+Sauvegarde de la Database
+-------------------
+2024-03-20 16:18:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 129
+ramUsage : 14.89
+userCount : 0
+-------------------
+2024-03-20 16:19:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 76
+processCount : 129
+ramUsage : 15.26
+userCount : 0
+-------------------
+2024-03-20 16:20:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 128
+ramUsage : 15.31
+userCount : 0
+-------------------
+2024-03-20 16:21:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 129
+ramUsage : 15.84
+userCount : 0
+-------------------
+2024-03-20 16:22:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 129
+ramUsage : 15.80
+userCount : 0
+-------------------
+2024-03-20 16:23:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 129
+ramUsage : 15.79
+userCount : 0
+-------------------
+2024-03-20 16:24:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 130
+ramUsage : 15.69
+userCount : 0
+-------------------
+2024-03-20 16:25:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 131
+ramUsage : 22.88
+userCount : 0
+Warning: empty y range [2.2:2.2], adjusting to [2.178:2.222]
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:26:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 76
+processCount : 130
+ramUsage : 26.25
+userCount : 0
+Sauvegarde de la Database
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:27:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 131
+ramUsage : 24.17
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:28:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 131
+ramUsage : 24.14
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:29:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 131
+ramUsage : 25.07
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:30:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 131
+ramUsage : 25.16
+userCount : 0
+Warning: empty y range [0:0], adjusting to [-1:1]
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [131:131], adjusting to [129.69:132.31]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:31:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 131
+ramUsage : 25.21
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [131:131], adjusting to [129.69:132.31]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:32:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 25.20
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:33:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 25.17
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:34:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 25.04
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:35:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 132
+ramUsage : 25.44
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:36:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 25.34
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:37:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 131
+ramUsage : 25.25
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:38:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 131
+ramUsage : 25.31
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:39:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 76
+processCount : 131
+ramUsage : 25.02
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:40:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 131
+ramUsage : 25.60
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:41:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 131
+ramUsage : 25.40
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:42:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 25.54
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:43:01
+-------------------
+cpuUsage : 8,7
+diskUsage : 76
+processCount : 132
+ramUsage : 25.49
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:44:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 25.46
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:45:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 25.51
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:46:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 25.93
+userCount : 0
+test
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:47:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 131
+ramUsage : 25.85
+userCount : 0
+Sauvegarde de la Database
+./DB/stockage.db .backup save/backup_2024-03-20_16-47-01.db
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:48:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 25.73
+userCount : 0
+test
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:49:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 25.60
+userCount : 0
+Sauvegarde de la Database
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:50:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 132
+ramUsage : 26.54
+userCount : 0
+Sauvegarde de la Database
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:51:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 135
+ramUsage : 26.63
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:52:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 134
+ramUsage : 26.59
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:53:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 131
+ramUsage : 26.39
+userCount : 0
+Sauvegarde de la Database
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:54:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 131
+ramUsage : 26.38
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:55:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 131
+ramUsage : 26.56
+userCount : 0
+save/CreateBackup.sh: line 9: [: missing `]'
+save/CreateBackup.sh: line 9: ]: command not found
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:56:01
+-------------------
+cpuUsage : 4,3
+diskUsage : 76
+processCount : 131
+ramUsage : 26.77
+userCount : 0
+save/CreateBackup.sh: line 9: [[0: command not found
+save/CreateBackup.sh: line 9: [: missing `]'
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:57:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 131
+ramUsage : 26.75
+userCount : 0
+Error: unable to open database "/chemin/absolu/vers/votre/DB/stockage.db": unable to open database file
+save/CreateBackup.sh: line 9: % 10: syntax error: operand expected (error token is "% 10")
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:58:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 133
+ramUsage : 26.80
+userCount : 0
+Error: unable to open database "/chemin/absolu/vers/votre/DB/stockage.db": unable to open database file
+save/CreateBackup.sh: line 9: % 10: syntax error: operand expected (error token is "% 10")
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 16:59:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 134
+ramUsage : 26.97
+userCount : 0
+Error: unable to open database "/chemin/absolu/vers/votre/DB/stockage.db": unable to open database file
+save/CreateBackup.sh: line 10: % 10: syntax error: operand expected (error token is "% 10")
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 17:00:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 134
+ramUsage : 26.88
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 17:01:01
+-------------------
+cpuUsage : 4,7
+diskUsage : 76
+processCount : 137
+ramUsage : 27.25
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 17:02:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 134
+ramUsage : 26.75
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 17:03:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 134
+ramUsage : 26.65
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 17:04:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 131
+ramUsage : 26.77
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 17:05:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 131
+ramUsage : 26.90
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 17:06:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 131
+ramUsage : 27.21
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 17:07:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 131
+ramUsage : 27.55
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 17:08:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 132
+ramUsage : 28.40
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 17:09:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 133
+ramUsage : 28.64
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 17:10:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 133
+ramUsage : 28.90
+userCount : 0
+Backup effectu√©
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 17:11:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 133
+ramUsage : 28.64
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 17:12:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 133
+ramUsage : 28.81
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 17:13:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 76
+processCount : 133
+ramUsage : 29.17
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 17:14:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 29.14
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+-------------------
+2024-03-20 17:15:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 132
+ramUsage : 29.73
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+Traceback (most recent call last):
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py", line 35, in <module>
+    config_data = get_config_data()
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py", line 6, in get_config_data
+    cursor.execute('SELECT * FROM config ORDER BY id DESC LIMIT 1')
+sqlite3.OperationalError: no such table: config
+-------------------
+2024-03-20 17:16:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 30.05
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+(14, 5.0, 5.0, 5.0, 6, 5, 50)
+(358, '2024-03-20 16:16:01', 0.0, 76.0, 132.0, 30.05, 0.0)
+Traceback (most recent call last):
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py", line 41, in <module>
+    check_thresholds(current_values, config_data)
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py", line 20, in check_thresholds
+    cpu_usage, disk_usage, process_count, ram_usage, user_count = current_values
+ValueError: too many values to unpack (expected 5)
+-------------------
+2024-03-20 17:17:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 30.18
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+(14, 5.0, 5.0, 5.0, 6, 5, 50)
+(359, '2024-03-20 16:17:01', 0.0, 76.0, 132.0, 30.18, 0.0)
+Traceback (most recent call last):
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py", line 41, in <module>
+    check_thresholds(current_values, config_data)
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py", line 20, in check_thresholds
+    cpu_usage, disk_usage, process_count, ram_usage, user_count = current_values
+ValueError: too many values to unpack (expected 5)
+-------------------
+2024-03-20 17:18:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 30.16
+userCount : 0
+Backup effectu√©
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+(14, 5.0, 5.0, 5.0, 6, 5, 50)
+(360, '2024-03-20 16:18:01', 0.0, 76.0, 132.0, 30.16, 0.0)
+Traceback (most recent call last):
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py", line 41, in <module>
+    check_thresholds(current_values, config_data)
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py", line 20, in check_thresholds
+    cpu_usage, disk_usage, process_count, ram_usage, user_count = current_values
+ValueError: too many values to unpack (expected 5)
+-------------------
+2024-03-20 17:19:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 29.10
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+(14, 5.0, 5.0, 5.0, 6, 5, 50)
+[(0.0, 76.0, 131.0, 25.6, 0.0), (0.0, 76.0, 129.0, 25.93, 0.0), (0.0, 76.0, 132.0, 25.29, 0.0), (0.0, 76.0, 131.0, 25.4, 0.0), (0.0, 76.0, 130.0, 25.5, 0.0), (0.0, 76.0, 132.0, 25.54, 0.0), (8.7, 76.0, 132.0, 25.49, 0.0), (0.0, 76.0, 132.0, 25.46, 0.0), (0.0, 76.0, 130.0, 25.46, 0.0), (0.0, 76.0, 130.0, 25.59, 0.0), (2.2, 76.0, 130.0, 25.49, 0.0), (0.0, 76.0, 132.0, 25.51, 0.0), (0.0, 76.0, 133.0, 25.52, 0.0), (0.0, 76.0, 130.0, 25.87, 0.0), (0.0, 76.0, 130.0, 25.9, 0.0), (0.0, 76.0, 132.0, 25.93, 0.0), (0.0, 76.0, 130.0, 25.92, 0.0), (0.0, 76.0, 129.0, 25.98, 0.0), (0.0, 76.0, 131.0, 25.85, 0.0), (0.0, 76.0, 129.0, 25.74, 0.0), (0.0, 76.0, 129.0, 25.81, 0.0), (0.0, 76.0, 132.0, 25.73, 0.0), (2.1, 76.0, 130.0, 25.2, 0.0), (0.0, 76.0, 130.0, 25.29, 0.0), (0.0, 76.0, 130.0, 25.59, 0.0), (0.0, 76.0, 132.0, 25.6, 0.0), (0.0, 76.0, 130.0, 25.63, 0.0), (2.1, 76.0, 130.0, 25.98, 0.0), (2.2, 76.0, 132.0, 26.54, 0.0), (0.0, 76.0, 130.0, 26.55, 0.0), (2.2, 76.0, 130.0, 26.25, 0.0), (0.0, 76.0, 135.0, 26.63, 0.0), (0.0, 76.0, 133.0, 26.58, 0.0), (2.2, 76.0, 130.0, 26.58, 0.0), (0.0, 76.0, 134.0, 26.59, 0.0), (0.0, 76.0, 130.0, 26.49, 0.0), (0.0, 76.0, 130.0, 26.47, 0.0), (0.0, 76.0, 131.0, 26.46, 0.0), (0.0, 76.0, 131.0, 26.39, 0.0), (0.0, 76.0, 129.0, 26.14, 0.0), (2.2, 76.0, 129.0, 26.39, 0.0), (0.0, 76.0, 131.0, 26.38, 0.0), (0.0, 76.0, 131.0, 26.56, 0.0), (0.0, 76.0, 129.0, 26.21, 0.0), (0.0, 76.0, 129.0, 26.61, 0.0), (0.0, 76.0, 129.0, 26.67, 0.0), (0.0, 76.0, 129.0, 26.99, 0.0), (0.0, 76.0, 129.0, 26.96, 0.0), (4.3, 76.0, 131.0, 26.77, 0.0), (2.2, 76.0, 129.0, 26.77, 0.0), (2.2, 76.0, 131.0, 26.75, 0.0), (2.8, 76.0, 133.0, 26.75, 0.0), (2.2, 76.0, 133.0, 26.8, 0.0), (2.1, 76.0, 134.0, 26.95, 0.0), (0.0, 76.0, 134.0, 26.97, 0.0), (2.2, 76.0, 132.0, 27.1, 0.0), (0.0, 76.0, 135.0, 26.95, 0.0), (0.0, 76.0, 134.0, 26.88, 0.0), (2.2, 76.0, 132.0, 26.83, 0.0), (2.2, 76.0, 132.0, 26.88, 0.0), (0.0, 76.0, 132.0, 26.85, 0.0), (2.2, 76.0, 132.0, 27.12, 0.0), (0.0, 76.0, 132.0, 26.97, 0.0), (0.0, 76.0, 135.0, 26.97, 0.0), (4.7, 76.0, 137.0, 27.25, 0.0), (0.0, 76.0, 135.0, 27.12, 0.0), (2.2, 76.0, 132.0, 27.17, 0.0), (4.0, 76.0, 132.0, 27.18, 0.0), (2.2, 76.0, 132.0, 27.1, 0.0), (0.0, 76.0, 132.0, 27.14, 0.0), (0.0, 76.0, 135.0, 27.36, 0.0), (2.2, 76.0, 132.0, 27.32, 0.0), (4.8, 76.0, 135.0, 27.24, 0.0), (2.2, 76.0, 135.0, 26.53, 0.0), (2.1, 76.0, 135.0, 26.6, 0.0), (2.3, 76.0, 132.0, 26.89, 0.0), (0.0, 76.0, 135.0, 26.78, 0.0), (2.3, 76.0, 132.0, 26.96, 0.0), (2.2, 76.0, 134.0, 26.75, 0.0), (0.0, 76.0, 134.0, 26.65, 0.0), (0.0, 76.0, 131.0, 26.77, 0.0), (0.0, 76.0, 131.0, 26.9, 0.0), (0.0, 76.0, 131.0, 27.21, 0.0), (0.0, 76.0, 131.0, 27.55, 0.0), (2.2, 76.0, 132.0, 28.4, 0.0), (0.0, 76.0, 131.0, 28.8, 0.0), (0.0, 76.0, 133.0, 28.64, 0.0), (0.0, 76.0, 133.0, 28.9, 0.0), (0.0, 76.0, 133.0, 28.64, 0.0), (0.0, 76.0, 133.0, 28.81, 0.0), (2.1, 76.0, 133.0, 29.17, 0.0), (0.0, 76.0, 132.0, 29.14, 0.0), (0.0, 76.0, 130.0, 29.52, 0.0), (2.2, 76.0, 132.0, 29.73, 0.0), (2.2, 76.0, 133.0, 29.86, 0.0), (0.0, 76.0, 132.0, 30.05, 0.0), (0.0, 76.0, 132.0, 30.18, 0.0), (0.0, 76.0, 132.0, 30.16, 0.0), (2.1, 76.0, 133.0, 30.44, 0.0), (0.0, 76.0, 132.0, 29.1, 0.0)]
+Traceback (most recent call last):
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py", line 41, in <module>
+    check_thresholds(current_values, config_data)
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py", line 20, in check_thresholds
+    cpu_usage, disk_usage, process_count, ram_usage, user_count = current_values
+ValueError: too many values to unpack (expected 5)
+-------------------
+2024-03-20 17:20:01
+-------------------
+cpuUsage : 7,1
+diskUsage : 76
+processCount : 132
+ramUsage : 29.68
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+(14, 5.0, 5.0, 5.0, 6, 5, 50)
+[(0.0, 76.0, 129.0, 25.93, 0.0), (0.0, 76.0, 132.0, 25.29, 0.0), (0.0, 76.0, 131.0, 25.4, 0.0), (0.0, 76.0, 130.0, 25.5, 0.0), (0.0, 76.0, 132.0, 25.54, 0.0), (8.7, 76.0, 132.0, 25.49, 0.0), (0.0, 76.0, 132.0, 25.46, 0.0), (0.0, 76.0, 130.0, 25.46, 0.0), (0.0, 76.0, 130.0, 25.59, 0.0), (2.2, 76.0, 130.0, 25.49, 0.0), (0.0, 76.0, 132.0, 25.51, 0.0), (0.0, 76.0, 133.0, 25.52, 0.0), (0.0, 76.0, 130.0, 25.87, 0.0), (0.0, 76.0, 130.0, 25.9, 0.0), (0.0, 76.0, 132.0, 25.93, 0.0), (0.0, 76.0, 130.0, 25.92, 0.0), (0.0, 76.0, 129.0, 25.98, 0.0), (0.0, 76.0, 131.0, 25.85, 0.0), (0.0, 76.0, 129.0, 25.74, 0.0), (0.0, 76.0, 129.0, 25.81, 0.0), (0.0, 76.0, 132.0, 25.73, 0.0), (2.1, 76.0, 130.0, 25.2, 0.0), (0.0, 76.0, 130.0, 25.29, 0.0), (0.0, 76.0, 130.0, 25.59, 0.0), (0.0, 76.0, 132.0, 25.6, 0.0), (0.0, 76.0, 130.0, 25.63, 0.0), (2.1, 76.0, 130.0, 25.98, 0.0), (2.2, 76.0, 132.0, 26.54, 0.0), (0.0, 76.0, 130.0, 26.55, 0.0), (2.2, 76.0, 130.0, 26.25, 0.0), (0.0, 76.0, 135.0, 26.63, 0.0), (0.0, 76.0, 133.0, 26.58, 0.0), (2.2, 76.0, 130.0, 26.58, 0.0), (0.0, 76.0, 134.0, 26.59, 0.0), (0.0, 76.0, 130.0, 26.49, 0.0), (0.0, 76.0, 130.0, 26.47, 0.0), (0.0, 76.0, 131.0, 26.46, 0.0), (0.0, 76.0, 131.0, 26.39, 0.0), (0.0, 76.0, 129.0, 26.14, 0.0), (2.2, 76.0, 129.0, 26.39, 0.0), (0.0, 76.0, 131.0, 26.38, 0.0), (0.0, 76.0, 131.0, 26.56, 0.0), (0.0, 76.0, 129.0, 26.21, 0.0), (0.0, 76.0, 129.0, 26.61, 0.0), (0.0, 76.0, 129.0, 26.67, 0.0), (0.0, 76.0, 129.0, 26.99, 0.0), (0.0, 76.0, 129.0, 26.96, 0.0), (4.3, 76.0, 131.0, 26.77, 0.0), (2.2, 76.0, 129.0, 26.77, 0.0), (2.2, 76.0, 131.0, 26.75, 0.0), (2.8, 76.0, 133.0, 26.75, 0.0), (2.2, 76.0, 133.0, 26.8, 0.0), (2.1, 76.0, 134.0, 26.95, 0.0), (0.0, 76.0, 134.0, 26.97, 0.0), (2.2, 76.0, 132.0, 27.1, 0.0), (0.0, 76.0, 135.0, 26.95, 0.0), (0.0, 76.0, 134.0, 26.88, 0.0), (2.2, 76.0, 132.0, 26.83, 0.0), (2.2, 76.0, 132.0, 26.88, 0.0), (0.0, 76.0, 132.0, 26.85, 0.0), (2.2, 76.0, 132.0, 27.12, 0.0), (0.0, 76.0, 132.0, 26.97, 0.0), (0.0, 76.0, 135.0, 26.97, 0.0), (4.7, 76.0, 137.0, 27.25, 0.0), (0.0, 76.0, 135.0, 27.12, 0.0), (2.2, 76.0, 132.0, 27.17, 0.0), (4.0, 76.0, 132.0, 27.18, 0.0), (2.2, 76.0, 132.0, 27.1, 0.0), (0.0, 76.0, 132.0, 27.14, 0.0), (0.0, 76.0, 135.0, 27.36, 0.0), (2.2, 76.0, 132.0, 27.32, 0.0), (4.8, 76.0, 135.0, 27.24, 0.0), (2.2, 76.0, 135.0, 26.53, 0.0), (2.1, 76.0, 135.0, 26.6, 0.0), (2.3, 76.0, 132.0, 26.89, 0.0), (0.0, 76.0, 135.0, 26.78, 0.0), (2.3, 76.0, 132.0, 26.96, 0.0), (2.2, 76.0, 134.0, 26.75, 0.0), (0.0, 76.0, 134.0, 26.65, 0.0), (0.0, 76.0, 131.0, 26.77, 0.0), (0.0, 76.0, 131.0, 26.9, 0.0), (0.0, 76.0, 131.0, 27.21, 0.0), (0.0, 76.0, 131.0, 27.55, 0.0), (2.2, 76.0, 132.0, 28.4, 0.0), (0.0, 76.0, 131.0, 28.8, 0.0), (0.0, 76.0, 133.0, 28.64, 0.0), (0.0, 76.0, 133.0, 28.9, 0.0), (0.0, 76.0, 133.0, 28.64, 0.0), (0.0, 76.0, 133.0, 28.81, 0.0), (2.1, 76.0, 133.0, 29.17, 0.0), (0.0, 76.0, 132.0, 29.14, 0.0), (0.0, 76.0, 130.0, 29.52, 0.0), (2.2, 76.0, 132.0, 29.73, 0.0), (2.2, 76.0, 133.0, 29.86, 0.0), (0.0, 76.0, 132.0, 30.05, 0.0), (0.0, 76.0, 132.0, 30.18, 0.0), (0.0, 76.0, 132.0, 30.16, 0.0), (2.1, 76.0, 133.0, 30.44, 0.0), (0.0, 76.0, 132.0, 29.1, 0.0), (7.1, 76.0, 132.0, 29.68, 0.0)]
+Traceback (most recent call last):
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py", line 41, in <module>
+    check_thresholds(current_values, config_data)
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py", line 20, in check_thresholds
+    cpu_usage, disk_usage, process_count, ram_usage, user_count = current_values
+ValueError: too many values to unpack (expected 5)
+-------------------
+2024-03-20 17:21:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 132
+ramUsage : 30.18
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+(5.0, 5.0, 5.0, 6, 5)
+[(2.2, 76.0, 132.0, 30.18, 0.0)]
+Traceback (most recent call last):
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py", line 41, in <module>
+    check_thresholds(current_values, config_data)
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py", line 20, in check_thresholds
+    cpu_usage, disk_usage, process_count, ram_usage, user_count = current_values
+ValueError: not enough values to unpack (expected 5, got 1)
+-------------------
+2024-03-20 17:22:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 30.62
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+(5.0, 5.0, 5.0, 6, 5)
+[(0.0, 76.0, 132.0, 30.62, 0.0)]
+[(0.0, 76.0, 132.0, 30.62, 0.0)]
+(5.0, 5.0, 5.0, 6, 5)
+Traceback (most recent call last):
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py", line 43, in <module>
+    check_thresholds(current_values, config_data)
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py", line 22, in check_thresholds
+    cpu_usage, disk_usage, process_count, ram_usage, user_count = current_values
+ValueError: not enough values to unpack (expected 5, got 1)
+-------------------
+2024-03-20 17:23:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 30.66
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+current =  [(0.0, 76.0, 132.0, 30.66, 0.0)]
+config =  (5.0, 5.0, 5.0, 6, 5)
+Traceback (most recent call last):
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py", line 41, in <module>
+    check_thresholds(current_values, config_data)
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py", line 22, in check_thresholds
+    cpu_usage, disk_usage, process_count, ram_usage, user_count = current_values
+ValueError: not enough values to unpack (expected 5, got 1)
+-------------------
+2024-03-20 17:24:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 30.32
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+current =  [(0.0, 76.0, 132.0, 30.32, 0.0)]
+config =  (5.0, 5.0, 5.0, 6, 5)
+Traceback (most recent call last):
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py", line 41, in <module>
+    check_thresholds(current_values, config_data)
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py", line 22, in check_thresholds
+    cpu_usage, disk_usage, process_count, ram_usage, user_count = current_values
+ValueError: not enough values to unpack (expected 5, got 1)
+-------------------
+2024-03-20 17:25:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 132
+ramUsage : 30.09
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+current =  (2.2, 76.0, 132.0, 30.09, 0.0)
+config =  (5.0, 5.0, 5.0, 6, 5)
+D√©passement du seuil d'utilisation du disque: 76.0 > 5.0
+D√©passement du seuil de nombre de processus: 132.0 > 5
+D√©passement du seuil d'utilisation de la RAM: 30.09 > 5.0
+-------------------
+2024-03-20 17:26:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 30.32
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+current =  (0.0, 76.0, 132.0, 30.32, 0.0)
+config =  (5.0, 5.0, 5.0, 6, 5)
+D√©passement du seuil d'utilisation du disque: 76.0 > 5.0
+D√©passement du seuil de nombre de processus: 132.0 > 5
+D√©passement du seuil d'utilisation de la RAM: 30.32 > 5.0
+-------------------
+2024-03-20 17:27:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 131
+ramUsage : 30.47
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+current =  (0.0, 76.0, 131.0, 30.47, 0.0)
+config =  (5.0, 5.0, 5.0, 6, 5)
+D√©passement du seuil d'utilisation du disque: 76.0 > 5.0
+D√©passement du seuil de nombre de processus: 131.0 > 5
+D√©passement du seuil d'utilisation de la RAM: 30.47 > 5.0
+-------------------
+2024-03-20 17:28:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 30.03
+userCount : 0
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+current =  (0.0, 76.0, 132.0, 30.03, 0.0)
+config =  (5.0, 5.0, 5.0, 6, 5)
+D√©passement du seuil d'utilisation du disque: 76.0 > 5.0
+D√©passement du seuil de nombre de processus: 132.0 > 5
+D√©passement du seuil d'utilisation de la RAM: 30.03 > 5.0
+-------------------
+2024-03-20 17:29:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 30.23
+userCount : 0
+
+gnuplot> set nowarning
+               ^
+         line 0: Unrecognized option.  See 'help unset'.
+
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+current =  (0.0, 76.0, 132.0, 30.23, 0.0)
+config =  (5.0, 5.0, 5.0, 6, 5)
+D√©passement du seuil d'utilisation du disque: 76.0 > 5.0
+D√©passement du seuil de nombre de processus: 132.0 > 5
+D√©passement du seuil d'utilisation de la RAM: 30.23 > 5.0
+-------------------
+2024-03-20 17:30:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 30.04
+userCount : 0
+
+gnuplot> set title "Evolution du Disk Usage" notitle
+                                             ^
+         line 0: unexpected or unrecognized token: notitle
+
+Warning: empty y range [76:76], adjusting to [75.24:76.76]
+Warning: empty y range [0:0], adjusting to [-1:1]
+current =  (0.0, 76.0, 132.0, 30.04, 0.0)
+config =  (5.0, 5.0, 5.0, 6, 5)
+D√©passement du seuil d'utilisation du disque: 76.0 > 5.0
+D√©passement du seuil de nombre de processus: 132.0 > 5
+D√©passement du seuil d'utilisation de la RAM: 30.04 > 5.0
+-------------------
+2024-03-20 17:31:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 30.07
+userCount : 0
+current =  (0.0, 76.0, 132.0, 30.07, 0.0)
+config =  (5.0, 5.0, 5.0, 6, 5)
+D√©passement du seuil d'utilisation du disque: 76.0 > 5.0
+D√©passement du seuil de nombre de processus: 132.0 > 5
+D√©passement du seuil d'utilisation de la RAM: 30.07 > 5.0
+-------------------
+2024-03-20 17:32:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 132
+ramUsage : 30.00
+userCount : 0
+current =  (2.2, 76.0, 132.0, 30.0, 0.0)
+config =  (5.0, 5.0, 5.0, 6, 5)
+D√©passement du seuil d'utilisation du disque: 76.0 > 5.0
+D√©passement du seuil de nombre de processus: 132.0 > 5
+D√©passement du seuil d'utilisation de la RAM: 30.0 > 5.0
+-------------------
+2024-03-20 17:33:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 29.97
+userCount : 0
+current =  (0.0, 76.0, 132.0, 29.97, 0.0)
+config =  (5.0, 5.0, 5.0, 6, 5)
+D√©passement du seuil d'utilisation du disque: 76.0 > 5.0
+D√©passement du seuil de nombre de processus: 132.0 > 5
+D√©passement du seuil d'utilisation de la RAM: 29.97 > 5.0
+-------------------
+2024-03-20 17:34:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 131
+ramUsage : 29.92
+userCount : 0
+current =  (0.0, 76.0, 131.0, 29.92, 0.0)
+config =  (5.0, 5.0, 5.0, 6, 5)
+D√©passement du seuil d'utilisation du disque: 76.0 > 5.0
+D√©passement du seuil de nombre de processus: 131.0 > 5
+D√©passement du seuil d'utilisation de la RAM: 29.92 > 5.0
+-------------------
+2024-03-20 17:35:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 132
+ramUsage : 29.91
+userCount : 0
+current =  (2.2, 76.0, 132.0, 29.91, 0.0)
+config =  (5.0, 5.0, 5.0, 6, 5)
+D√©passement du seuil d'utilisation du disque: 76.0 > 5.0
+D√©passement du seuil de nombre de processus: 132.0 > 5
+D√©passement du seuil d'utilisation de la RAM: 29.91 > 5.0
+-------------------
+2024-03-20 17:36:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 29.96
+userCount : 0
+current =  (0.0, 76.0, 132.0, 29.96, 0.0)
+config =  (5.0, 5.0, 5.0, 6, 5)
+D√©passement du seuil d'utilisation du disque: 76.0 > 5.0
+D√©passement du seuil de nombre de processus: 132.0 > 5
+D√©passement du seuil d'utilisation de la RAM: 29.96 > 5.0
+-------------------
+2024-03-20 17:37:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 132
+ramUsage : 29.88
+userCount : 0
+Backup effectu√©
+current =  (2.2, 76.0, 132.0, 29.88, 0.0)
+config =  (5.0, 5.0, 5.0, 6, 5)
+D√©passement du seuil d'utilisation du disque: 76.0 > 5.0
+D√©passement du seuil de nombre de processus: 132.0 > 5
+D√©passement du seuil d'utilisation de la RAM: 29.88 > 5.0
+-------------------
+2024-03-20 17:38:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 29.95
+userCount : 0
+current =  (0.0, 76.0, 132.0, 29.95, 0.0)
+config =  (5.0, 5.0, 5.0, 6, 5)
+D√©passement du seuil d'utilisation du disque: 76.0 > 5.0
+D√©passement du seuil de nombre de processus: 132.0 > 5
+D√©passement du seuil d'utilisation de la RAM: 29.95 > 5.0
+-------------------
+2024-03-20 17:39:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 134
+ramUsage : 30.17
+userCount : 0
+current =  (0.0, 76.0, 134.0, 30.17, 0.0)
+config =  (5.0, 5.0, 5.0, 6, 5)
+D√©passement du seuil d'utilisation du disque: 76.0 > 5.0
+D√©passement du seuil de nombre de processus: 134.0 > 5
+D√©passement du seuil d'utilisation de la RAM: 30.17 > 5.0
+-------------------
+2024-03-20 17:40:01
+-------------------
+cpuUsage : 4,4
+diskUsage : 76
+processCount : 134
+ramUsage : 29.94
+userCount : 0
+current =  (4.4, 76.0, 134.0, 29.94, 0.0)
+config =  (5.0, 5.0, 5.0, 6, 5)
+D√©passement du seuil d'utilisation du disque: 76.0 > 5.0
+D√©passement du seuil de nombre de processus: 134.0 > 5
+D√©passement du seuil d'utilisation de la RAM: 29.94 > 5.0
+-------------------
+2024-03-20 17:41:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 134
+ramUsage : 30.31
+userCount : 0
+current =  (0.0, 76.0, 134.0, 30.31, 0.0)
+config =  (5.0, 5.0, 5.0, 6, 5)
+D√©passement du seuil d'utilisation du disque: 76.0 > 5.0
+D√©passement du seuil de nombre de processus: 134.0 > 5
+D√©passement du seuil d'utilisation de la RAM: 30.31 > 5.0
+-------------------
+2024-03-20 17:42:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 76
+processCount : 134
+ramUsage : 30.04
+userCount : 0
+{'CPU': (2.3, False), 'Disk': (76.0, True), 'Process': (134.0, True), 'RAM': (30.04, True), 'User': (0.0, False)}
+-------------------
+2024-03-20 17:43:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 134
+ramUsage : 30.37
+userCount : 0
+{'CPU': (0.0, False), 'Disk': (76.0, True), 'Process': (134.0, True), 'RAM': (30.37, True), 'User': (0.0, False)}
+-------------------
+2024-03-20 17:44:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 133
+ramUsage : 30.53
+userCount : 0
+Backup effectu√©
+{'CPU': (2.2, False), 'Disk': (76.0, True), 'Process': (133.0, True), 'RAM': (30.53, True), 'User': (0.0, False)}
+-------------------
+2024-03-20 17:45:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 31.02
+userCount : 0
+{'CPU': (0.0, False), 'Disk': (76.0, True), 'Process': (132.0, True), 'RAM': (31.02, True), 'User': (0.0, False)}
+-------------------
+2024-03-20 17:46:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 32.27
+userCount : 0
+Traceback (most recent call last):
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py", line 38, in <module>
+    subprocess.run(['python3', 'SendMail.py', crisisState])
+  File "/usr/lib/python3.10/subprocess.py", line 503, in run
+    with Popen(*popenargs, **kwargs) as process:
+  File "/usr/lib/python3.10/subprocess.py", line 971, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.10/subprocess.py", line 1796, in _execute_child
+    self.pid = _posixsubprocess.fork_exec(
+TypeError: expected str, bytes or os.PathLike object, not dict
+-------------------
+2024-03-20 17:47:01
+-------------------
+cpuUsage : 6,8
+diskUsage : 76
+processCount : 132
+ramUsage : 33.68
+userCount : 0
+Traceback (most recent call last):
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py", line 38, in <module>
+    subprocess.run(['python3', 'SendMail.py', crisisState])
+  File "/usr/lib/python3.10/subprocess.py", line 503, in run
+    with Popen(*popenargs, **kwargs) as process:
+  File "/usr/lib/python3.10/subprocess.py", line 971, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.10/subprocess.py", line 1796, in _execute_child
+    self.pid = _posixsubprocess.fork_exec(
+TypeError: expected str, bytes or os.PathLike object, not dict
+-------------------
+2024-03-20 17:48:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 34.38
+userCount : 0
+{'CPU': (0.0, False), 'Disk': (76.0, True), 'Process': (132.0, True), 'RAM': (34.38, True), 'User': (0.0, False)}
+-------------------
+2024-03-20 17:49:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 31.67
+userCount : 0
+-------------------
+2024-03-20 17:50:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 76
+processCount : 132
+ramUsage : 31.88
+userCount : 0
+-------------------
+2024-03-20 17:51:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 32.34
+userCount : 0
+Une erreur s'est produite lors de l'envoi de l'e-mail d'alerte: [Errno -2] Name or service not known
+-------------------
+2024-03-20 17:52:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 32.30
+userCount : 0
+Une erreur s'est produite lors de l'envoi de l'e-mail d'alerte: [Errno -2] Name or service not known
+-------------------
+2024-03-20 17:53:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 32.17
+userCount : 0
+Une erreur s'est produite lors de l'envoi de l'e-mail d'alerte: [Errno -2] Name or service not known
+-------------------
+2024-03-20 17:54:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 32.11
+userCount : 0
+Une erreur s'est produite lors de l'envoi de l'e-mail d'alerte: [Errno -2] Name or service not known
+-------------------
+2024-03-20 17:55:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 133
+ramUsage : 32.01
+userCount : 0
+Traceback (most recent call last):
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py", line 67, in <module>
+    sendAlertMail(crisisState)
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py", line 43, in sendAlertMail
+    message = MIMEMultipart()
+NameError: name 'MIMEMultipart' is not defined
+-------------------
+2024-03-20 17:56:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 133
+ramUsage : 32.25
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 17:57:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 133
+ramUsage : 32.36
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 17:58:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 133
+ramUsage : 32.56
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 17:59:01
+-------------------
+cpuUsage : 9,3
+diskUsage : 76
+processCount : 133
+ramUsage : 32.61
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:00:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 32.40
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:01:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 32.06
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:02:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 32.25
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:03:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 32.33
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:04:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 131
+ramUsage : 31.99
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:05:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 32.04
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:06:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 132
+ramUsage : 31.92
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:07:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 132
+ramUsage : 32.33
+userCount : 0
+Backup effectu√©
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:08:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 32.33
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:09:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 32.34
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:10:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 132
+ramUsage : 32.51
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:11:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 32.77
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:12:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 32.76
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:13:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 132
+ramUsage : 32.57
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:14:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 32.48
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:15:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 32.48
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:16:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 132
+ramUsage : 32.36
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:17:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 32.29
+userCount : 0
+Backup effectu√©
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:18:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 31.98
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:29:34
+-------------------
+cpuUsage : 30,0
+diskUsage : 76
+processCount : 132
+ramUsage : 32.11
+userCount : 0
+-------------------
+2024-03-20 18:32:37
+-------------------
+cpuUsage : 40,0
+diskUsage : 76
+processCount : 156
+ramUsage : 32.69
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:33:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 147
+ramUsage : 50.90
+userCount : 0
+python3: can't open file '/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py': [Errno 2] No such file or directory
+-------------------
+2024-03-20 18:34:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 76
+processCount : 147
+ramUsage : 48.85
+userCount : 0
+python3: can't open file '/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/AlertMail/DetectCrisis.py': [Errno 2] No such file or directory
+-------------------
+2024-03-20 18:35:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 76
+processCount : 147
+ramUsage : 49.72
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:36:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 144
+ramUsage : 48.96
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:37:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 146
+ramUsage : 52.74
+userCount : 0
+-------------------
+2024-03-20 18:38:01
+-------------------
+cpuUsage : 4,3
+diskUsage : 76
+processCount : 137
+ramUsage : 30.85
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:39:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 137
+ramUsage : 30.80
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-20 18:40:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 137
+ramUsage : 31.12
+userCount : 0
+-------------------
+2024-03-20 18:41:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 135
+ramUsage : 31.18
+userCount : 0
+-------------------
+2024-03-20 18:42:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 135
+ramUsage : 30.87
+userCount : 0
+-------------------
+2024-03-20 18:43:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 76
+processCount : 135
+ramUsage : 30.92
+userCount : 0
+-------------------
+2024-03-20 18:44:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 135
+ramUsage : 30.97
+userCount : 0
+-------------------
+2024-03-20 18:45:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 134
+ramUsage : 31.15
+userCount : 0
+-------------------
+2024-03-20 18:46:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 135
+ramUsage : 31.13
+userCount : 0
+-------------------
+2024-03-20 18:47:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 135
+ramUsage : 31.21
+userCount : 0
+-------------------
+2024-03-20 18:48:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 136
+ramUsage : 31.24
+userCount : 0
+-------------------
+2024-03-20 18:49:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 136
+ramUsage : 31.23
+userCount : 0
+Backup effectu√©
+-------------------
+2024-03-20 18:50:01
+-------------------
+cpuUsage : 17,9
+diskUsage : 76
+processCount : 136
+ramUsage : 33.42
+userCount : 0
+-------------------
+2024-03-20 18:51:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 137
+ramUsage : 33.12
+userCount : 0
+-------------------
+2024-03-20 18:52:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 76
+processCount : 140
+ramUsage : 33.99
+userCount : 0
+-------------------
+2024-03-20 18:53:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 137
+ramUsage : 35.09
+userCount : 0
+-------------------
+2024-03-20 18:54:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 139
+ramUsage : 34.26
+userCount : 0
+-------------------
+2024-03-20 18:55:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 76
+processCount : 139
+ramUsage : 34.79
+userCount : 0
+-------------------
+2024-03-20 18:56:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 140
+ramUsage : 35.14
+userCount : 0
+-------------------
+2024-03-20 18:57:01
+-------------------
+cpuUsage : 4,3
+diskUsage : 76
+processCount : 140
+ramUsage : 35.29
+userCount : 0
+-------------------
+2024-03-20 18:58:02
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 140
+ramUsage : 35.39
+userCount : 0
+-------------------
+2024-03-20 18:59:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 140
+ramUsage : 35.39
+userCount : 0
+Backup effectu√©
+-------------------
+2024-03-20 19:00:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 140
+ramUsage : 35.58
+userCount : 0
+-------------------
+2024-03-20 19:01:01
+-------------------
+cpuUsage : 9,1
+diskUsage : 76
+processCount : 139
+ramUsage : 35.50
+userCount : 0
+-------------------
+2024-03-20 19:02:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 139
+ramUsage : 35.51
+userCount : 0
+-------------------
+2024-03-20 19:03:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 139
+ramUsage : 35.43
+userCount : 0
+-------------------
+2024-03-20 19:04:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 139
+ramUsage : 35.46
+userCount : 0
+-------------------
+2024-03-20 19:05:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 139
+ramUsage : 35.46
+userCount : 0
+-------------------
+2024-03-20 19:06:01
+-------------------
+cpuUsage : 4,4
+diskUsage : 76
+processCount : 138
+ramUsage : 35.60
+userCount : 0
+-------------------
+2024-03-20 19:07:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 76
+processCount : 139
+ramUsage : 35.65
+userCount : 0
+-------------------
+2024-03-20 19:08:02
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 140
+ramUsage : 35.59
+userCount : 0
+-------------------
+2024-03-20 19:09:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 137
+ramUsage : 19.85
+userCount : 0
+Backup effectu√©
+-------------------
+2024-03-20 19:10:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 137
+ramUsage : 18.83
+userCount : 0
+-------------------
+2024-03-20 19:11:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 137
+ramUsage : 18.84
+userCount : 0
+-------------------
+2024-03-20 19:12:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 137
+ramUsage : 18.93
+userCount : 0
+-------------------
+2024-03-20 19:13:01
+-------------------
+cpuUsage : 4,3
+diskUsage : 76
+processCount : 136
+ramUsage : 22.86
+userCount : 0
+-------------------
+2024-03-20 19:14:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 135
+ramUsage : 20.20
+userCount : 0
+-------------------
+2024-03-20 19:15:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 138
+ramUsage : 20.35
+userCount : 0
+-------------------
+2024-03-20 19:16:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 136
+ramUsage : 20.48
+userCount : 0
+-------------------
+2024-03-20 19:17:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 136
+ramUsage : 26.49
+userCount : 0
+-------------------
+2024-03-20 19:18:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 136
+ramUsage : 26.00
+userCount : 0
+-------------------
+2024-03-20 19:19:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 76
+processCount : 136
+ramUsage : 26.22
+userCount : 0
+Backup effectu√©
+-------------------
+2024-03-20 19:20:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 136
+ramUsage : 26.09
+userCount : 0
+-------------------
+2024-03-20 19:21:01
+-------------------
+cpuUsage : 70,4
+diskUsage : 76
+processCount : 140
+ramUsage : 19.39
+userCount : 0
+-------------------
+2024-03-20 19:22:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 132
+ramUsage : 12.48
+userCount : 0
+-------------------
+2024-03-22 11:02:04
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 129
+ramUsage : 5.10
+userCount : 1
+-------------------
+2024-03-22 11:03:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 142
+ramUsage : 15.91
+userCount : 1
+-------------------
+2024-03-22 11:04:02
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 145
+ramUsage : 15.59
+userCount : 1
+-------------------
+2024-03-22 11:05:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 146
+ramUsage : 20.82
+userCount : 1
+-------------------
+2024-03-22 11:06:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 144
+ramUsage : 20.86
+userCount : 1
+-------------------
+2024-03-22 11:07:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 135
+ramUsage : 21.67
+userCount : 1
+-------------------
+2024-03-22 11:08:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 76
+processCount : 136
+ramUsage : 22.53
+userCount : 1
+Backup effectu√©
+-------------------
+2024-03-22 11:09:01
+-------------------
+cpuUsage : 1,9
+diskUsage : 76
+processCount : 136
+ramUsage : 21.91
+userCount : 1
+-------------------
+2024-03-22 11:10:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 76
+processCount : 137
+ramUsage : 21.99
+userCount : 1
+-------------------
+2024-03-22 11:11:01
+-------------------
+cpuUsage : 8,8
+diskUsage : 76
+processCount : 139
+ramUsage : 33.20
+userCount : 1
+-------------------
+2024-03-22 11:12:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 141
+ramUsage : 31.52
+userCount : 1
+-------------------
+2024-03-22 11:13:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 138
+ramUsage : 30.36
+userCount : 1
+-------------------
+2024-03-22 11:14:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 138
+ramUsage : 30.30
+userCount : 1
+-------------------
+2024-03-22 11:15:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 136
+ramUsage : 29.96
+userCount : 1
+-------------------
+2024-03-22 11:16:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 76
+processCount : 137
+ramUsage : 30.02
+userCount : 1
+-------------------
+2024-03-22 11:17:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 138
+ramUsage : 30.20
+userCount : 1
+-------------------
+2024-03-22 11:18:02
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 138
+ramUsage : 30.50
+userCount : 1
+Backup effectu√©
+-------------------
+2024-03-22 11:19:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 76
+processCount : 138
+ramUsage : 30.90
+userCount : 1
+-------------------
+2024-03-22 11:20:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 138
+ramUsage : 30.34
+userCount : 1
+-------------------
+2024-03-22 11:21:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 138
+ramUsage : 30.58
+userCount : 1
+-------------------
+2024-03-22 11:22:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 76
+processCount : 137
+ramUsage : 30.42
+userCount : 1
+-------------------
+2024-03-27 14:34:03
+-------------------
+cpuUsage : 0,0
+diskUsage : 77
+processCount : 146
+ramUsage : 17.30
+userCount : 0
+-------------------
+2024-03-27 14:35:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 77
+processCount : 143
+ramUsage : 16.48
+userCount : 0
+-------------------
+2024-03-27 14:36:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 77
+processCount : 143
+ramUsage : 20.24
+userCount : 0
+-------------------
+2024-03-27 14:37:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 77
+processCount : 144
+ramUsage : 20.12
+userCount : 0
+-------------------
+2024-03-27 14:38:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 77
+processCount : 141
+ramUsage : 20.22
+userCount : 0
+-------------------
+2024-03-27 14:39:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 139
+ramUsage : 20.90
+userCount : 0
+Backup effectu√©
+-------------------
+2024-03-27 14:40:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 139
+ramUsage : 21.12
+userCount : 0
+-------------------
+2024-03-27 14:41:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 139
+ramUsage : 20.92
+userCount : 0
+-------------------
+2024-03-27 14:42:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 139
+ramUsage : 21.30
+userCount : 0
+-------------------
+2024-03-27 14:43:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 139
+ramUsage : 21.23
+userCount : 0
+-------------------
+2024-03-27 14:44:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 135
+ramUsage : 31.41
+userCount : 0
+-------------------
+2024-03-27 14:45:01
+-------------------
+cpuUsage : 4,5
+diskUsage : 78
+processCount : 132
+ramUsage : 27.94
+userCount : 0
+-------------------
+2024-03-27 14:46:01
+-------------------
+cpuUsage : 4,3
+diskUsage : 78
+processCount : 135
+ramUsage : 27.81
+userCount : 0
+-------------------
+2024-03-27 14:47:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 132
+ramUsage : 28.14
+userCount : 0
+-------------------
+2024-03-27 14:48:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 132
+ramUsage : 28.14
+userCount : 0
+-------------------
+2024-03-27 14:49:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 132
+ramUsage : 28.18
+userCount : 0
+-------------------
+2024-03-27 14:50:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 132
+ramUsage : 28.40
+userCount : 0
+Backup effectu√©
+-------------------
+2024-03-27 14:51:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 132
+ramUsage : 28.53
+userCount : 0
+-------------------
+2024-03-27 14:52:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 135
+ramUsage : 28.45
+userCount : 0
+-------------------
+2024-03-27 14:53:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 133
+ramUsage : 29.11
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 14:54:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 133
+ramUsage : 29.13
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 14:55:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 133
+ramUsage : 29.18
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 14:56:02
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 133
+ramUsage : 30.01
+userCount : 0
+Backup effectu√©
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 14:57:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 132
+ramUsage : 29.52
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 14:58:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 132
+ramUsage : 29.86
+userCount : 0
+/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/main.sh: line 101: syntax error near unexpected token `newline'
+/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/main.sh: line 101: `bash "graph/cpu_usage_graph.sh" "$limit_data" >'
+-------------------
+2024-03-27 14:59:01
+-------------------
+cpuUsage : 5,0
+diskUsage : 78
+processCount : 137
+ramUsage : 30.00
+userCount : 0
+L'emplacement actuel est : /home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-
+
+gnuplot> set output "Web/static/img"
+                                    ^
+         line 0:          cannot open file; output not changed
+system error: Is a directory
+
+âPNG
+
+   IHDR     X   ≠®rB  2PLTEˇˇˇ   †††ˇ   ¿  Äˇ¿ ˇ ÓÓ¿@ »» Ai·ˇ¿  Ä@¿Äˇ0`Äã  @Ä ˇÄˇˇ‘•**ˇˇ @‡–   333MMMfffôôô≥≥≥¿¿¿ÃÃÃÂÂÂˇˇˇ22êÓê≠ÿÊU‡ˇˇÓ›Çˇ∂¡ØÓÓˇ◊  ˇ  d  ˇ"ã".ãW  ˇ  ãp  Ä  ÕáŒÎ ˇˇˇ ˇ Œ—ˇìˇPÄÄˇE ˙ÄrÈñzÊåΩ∑k∏Üıı‹†Ä ˇ• ÓÇÓî ”›†›êP@Uk/Ä ÄÄ@Ä@ÄÄ`¿Ä`ˇÄÄ ˇÄ@ˇ†@ˇ†`ˇ†pˇ¿¿ˇˇÄˇˇ¿Õ∑ûˇ†∂Õ¡ˇ¡Õ¿∞|ˇ@†ˇ æææﬂﬂﬂ___???üüüøøøúV¨   	pHYs  ƒ  ƒï+  |IDATxúÌ›v¢HÄQY˚ôuØ˝oa4jÇÉB	…ΩÁLZC—s¯Zûr:              º©-Fì?,ßæ=˘ÕoöfÍª]Uu”^≠œN’8±Æh/Ø˘Ò¯§∂Hœ¯≠ÖÒÈÀÅ¥EïN©</˙˝†Á•@ÿªÂÅÃ1H◊—ˇŸ]m
+Å∞w_Å\4ıyÈlä¢ÈüET√¬~^‰´a≈Ëí…Ì5u™∆’•ÀtÍ¢È˙@æ~Ô¢∫Â5éUùøFÅ§ÛYøB6¨ë’Uzò˙)ı3–≠Ùû∏ΩÉˇ¿ßÛ◊Óº*îö:}‰~ÎÓ5u’ùøw]TœÔÁLR‹ﬁUÊΩÉ4M:o∂\f/ıÂﬁM=ı3p∂qŸHÔË~	,œãÓ∞(û¿(ê˚◊Ùi]]¶7˛Î^LR›ö˙_¸«6»„ZVÍ«πM}òÅ';`5∑wêÓ∫é€
+˝¯<êoØπ-©„Í“Ø4ıØå©Îˆ2oe›ˇB{?ıÒQYØÚ?ûπ€H?ø§~’\X´(ê˚◊ÀhuÈ‡ÚÉY´X√ÔE€ ˝V∆∞/∏ÓN˜≥vûf*¢›”∞ñª@ŒK˛‘ª√∞Í5¸´=˝Ú»˝;»◊Ôç~l§èK„7∫…otUˇÁ^”MΩÉ¿∆Ó9ˇ˚<lJ\VÙØ€ √óaΩˇ~‰ˆö«@n[	∑ﬂ˝ÿÕ;~s|+*NOæ—ˇR1Æåµ€ ∂>»·˛8HSˇnèªä∆ÌË”eQ’/ê„?ÎóΩX_Øy‰€~¶™π_±∫?P¯5fw9f¯˝©È“8‰y+µC √‘´Î‘œØÛ>¬∂Æßö§·Ò∏Õ˚xd8ˆêÜΩ?U‰Áqê˛ÈW wG*nøwqw™I˙˙føﬁ‹ÔØ˙˙F◊\éÉÙZ™q˚cúz5|Û<±2ùÄGµ˜ò‘ØW5—Ÿ1óµN0       Ú¯:;t¸ºåÙŸπÅ}È?à„T'M◊M:7í>=G∞#„uusΩ¡EõpÁ»xµtÂ1‡&’√*Vw˝ Å˘§	AWèÆt˘î≥“u7p”çVŸ
+&\>¨≤û^≈*‡PV‰öEö‹HüoÚª^∫‡•;ù≠_˙“∑\ﬁAäÈ›ºˇª˝“óÓt∂~ÈKﬂ“é€ }
+?˛w˚•/›Èl˝“óæÁ˛Tì‚˚©&€ÏÛ5’CÕ¨©ÊœT5≥¶ö{<S=‘ÃöÍ~∆É∑Ñè¯y3˜}ﬁâW |¬ƒÕ‹ÚâÒÿ•©õπ‰„±KS7sπﬁÃ}Ú^Ó[ﬁÃ] |¿‘Õ‹√@öÊv3˜Ô˜rﬂÙfÓ·¶nÊÚ∞öıÌ^ÓõﬁÃ] |¿‘Õ‹√@ænÊ>q/˜MoÊ.>`ÍfÓÒ6»ÂfÓ˜rüæô˚ÀMœÈöÌ¬i˙fÓˇ∏ó˚x3˜©{πo˙π ·¶nÊ˛œ{π˜!L›À}”õπÑOò∫ô˚Û{πﬂnÊ>u/˜MoÊ.>bÍfÓœÔÂ˛u≈‰Ω‹∑ºôª@8≤ÕÔÂ.*œΩ‹¬AÂπóª@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  Å¿˙l3ﬁ≥z∏πbUM⁄x<ÿ–FÏxõﬂ∫IÁFRÜÒ`-∞UÔ∏Ò˛•èwyá≤—;¨aUıÈÎÎ∆„¡6∂Y`€·F÷u_…©|‚˝Ò˛{{
+0€6Å4√dÎ·&ÔÂ√ùz¬°lH*Ü4¬·mH[∑Øû\≈Ω1qÅê≈˚ãÍSÕ∏]æÕF∫@»hã@“eœÓ6ªyBF[Úµ’±…ÅBÅê—Åå€ß˛Tìb˝SMBF«;YQ d$ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@ ∞E ]S‘eˇ Uu—§ï«mH[¥ßT∂ÁGuìŒç§u«≠H*⁄À£∂H˝Â∫„	Ñå÷§¸ödUﬂæÆ7û@»h˝@ö¶¨ãz\√ÍüóCÑCY?ês]j˚´∫Íüó√ä÷z„	Ñå∂§;mjÅl∞ä5L≤œbrkÙ∆ÙBÔ/™”™Ø@l§sxÎ“}≠bŸÕÀ·mp†∞©ª·`°ÖﬂßöTó›ºßTN5·–ú¨Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@`˝@∫¢W˜SUMZy<Åê—Å§Î√∫IÁF“˝O¬°lH;<* u«mHUﬂæÆ7û@»hã@Í¢Æ“©_√ÍüóCÑCŸ ê2ù∫∫ﬂÚ®´˛yy€&Ye<Åê—FªySøÂ!o´„ ˝Í’‰*÷Ëç)Ñ,ﬁ_T#}6“9º-W±ÏÊÂñ-∞]Ÿ‘uSv—k™ˆ∫ëÓ@!á∑dÅmÎ¢hŒä¢nüø™?ød‹Õ{~X8’ÑC[∞¿6uô∆G]9no;ﬁ!£l˘Ù…6„=!2r∫;^X`ªp}˝Òæ-^`ªÛñz˝z"·P/∞˝¨∂˛˜Î÷ÔÅê—Ç∂∫˝¬Îãπ@8î%ÅG?ö™Î™WwÚ
+ÑÉY≤¿vuìN©˘qo´Ò¶	Ñåñ-∞eÒÍÒè◊∆õ"2Z∏¿¶&:Àd˝Ò&Ñå-∞˝ê∂_œ 4ﬁ$Åê—Çˆz‰≠ı,Åp(KNV<wQˆ˚ØŒÎY9∆{B d¥`ÅΩ;Ú˙và@8î%Ô UJoY<ﬁ!£ÏõG@è˜Ñ@»»ÈÓñlÉ‹ù‰ﬁπ‰ñ?a……äE”¶˛AW6Eµ˝xOÑåñ,∞˝áîå∆-Ÿzºi!£ÖlWVU¸±XÎé7A dd#ÅÄ@  ÅÄ@ ∞Ù8HSü„˙)Ô€è7A d¥:E”ﬂr∞|˝ö[Åp(Àÿ˛™€Ûo$ó‹ÚG,[`˚õãÎıÒ¶Ñå^
+ƒ;≈¬U¨j¯çÍ’ì›¬¡,[`SQóEŸ∑wŒ1ﬁÅê—‚è-ﬁ˚‰Åp(ÀÿîyºÔBFé§C@ X∏Î¢z˘dÅp(K)Í¶.öÛ/^ò.e·πX√«ô§¶;ßícº)!£ÖÔ i¯#5ßÙ‚í.e˘©&ß”Pá@¯ñ-∞ıxû{Yø¸Ÿ£·Pñ-∞m—îmŸÌ©zÒ:·P_QÿüjÚ∆G+
+ÑCq™	∂9í^çü˛û™˙˚ôç·Pñ.∞];à_‘÷c uìŒç§w∆˚I d¥zê˙rˇÉº™iáΩ¬èwUá≤lÅ≠öT§Æ˙«ÌA™Ê4RWÊV◊Á
+ÑCYx$ø–Üó‹vE7R«J á!¬°,<í~˘ÖCÍ˛¬ıÍÚ†$Ω<ﬁÅê—‚@ÍÓ¸2lïÑﬂaq e]ñu∞äïä~◊ÛU¨˘1Åê≈+ãjøÏWuxœÓz£œŒF:«∑—%∑vÛÚ;,˝ÿüSß€üãÂ@!ø√¬U¨™_(˛}ΩÌıTì¢%e·Ö›Ò£ÌãÉ,oä@»hÒ^¨‘ø}¯tw˛à≈G“[üÓŒ≤Ù\¨∂?∏ÒÍı∂ã«õ"2Zx6oSÙ;•ﬁ∏§P  Kl <ﬁÅêëœÊÖ¿Ç∂Ωx„#¬¡,X`ã/ØﬂZ ÀÇ∂ªh´‚≈≈Z6ﬁ!£óÿ“n^˛à◊ˆb9íŒ!º¥¿Üó‹n0ﬁÅê—ljÎ◊wc	ÑCyi7ÔÎ€Ë·X,∞’≈å
+WÔ	ÅêëSM  ÅÄ@  .òÇÄ¶ ‡Ç)∏`
+ÆÅÄ@ ‡Ç)∏`
+.òÇÄ¶ ∞”›3è7E d¥dÅ-ﬂ;àæxºi!£lY4UÛ∆AÙ•„=!2Z∞¿˚Æ ◊˜.Ô	Åê—íΩX˝ó7é.Ô	Åê—“@ﬁ]¬¬°,	$ı∆Ø9∆{B dÙ“Å¬¬πX¸/\QÿÀ1ﬁ!#◊§C@ X≤¿^?Æ°{„`°@8î%€ ≈5◊§ÛW,X`õØÛ∞\ìŒ_±‰Tìt}î\Q»±¯H˙“ﬂz}º'BFºÉ¥MQ7√ÊJ™Í¢I?á≤Ëä¬üè&¥ew.cÿ†Øõtn$Ω8ﬁ!£%ü¨xΩZ™,˛}—mQıªΩRˇË·+Åp(ãéÉESUM1g/oüE5¨âUÎc·P-∞]’ü®X˝˚˝c\±™áΩ¡Â√·P∂8’‰¸Sõ √¶J9¨h≠7û@»hõs±∆çtÅpx[ù¨ÿØ^MÆbΩy=â@»‰˝E5“‘6“˘∂|±õó√[?ê™Mß‘8P»Ø∞~ ˝˘%uï∆áÖSM84WB@ Å@@ Å@@ Å@@ ¬_5kIï@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  Å¿áIe]‘UVu—§ï«Î¯P M›ù∫∫Ó÷M:7í÷O ¨„CÅî˝óÆhOß∂H˝Â∫„	Ñu|r$ıYT√€»¯uΩÒ¬:>H€øÉ‘Mˇ∞|B Ï≈I√6H]ıèÀaEkΩÒ¬:>HSt'Å∞oü§ÍW∞û¨bçﬁò∏@X«?ñ§˜’g ±ÈÏ⁄ßﬁA Îé]ªyŸ≥“ﬁäp†ê˚P ı∏Í÷o†ß™p™	{ÂdEÅÄ@  ÅÄ@ +˘O ¨D Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ ¯T ]Uixî™∫h“™„	Ñµ|(êÆiÀK uìŒç§5«k˘‹*÷%êv¯£(◊O ¨Â„ÅTıÌÎZ„	Ñµ|<ê∫ü¨9û@XÀÁ©Óû¨4û@Xã@ ˘@¶V±F/OZ ¨ÂK“ªãj¿F:ÒwªyŸ≥è‚@!{ˆ©@∆U∑~˚#UÖSMÿ+'+B‡wÚü@Xá@  êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã7kQ»õv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã˜˘@RUMZu<Å∞ñœR7È‹HZsºÈ@∂˘[ÃöÍ‚@6˙?˛¡ˇGùÍ«iã‘èPÆ9û@≤NˆWOı„ÅTıÌÎZ„	$ÎdıT?H›Ù_Àá!¶«õ¸Ó‰7ó2™oºÙøOœ@˛±~ÀKø-JK˛oØ£Æ˙ØÂ∞¢ı¬\D 	æ+Å¸Ú@¶V±‡P6dj#∏ò⁄Õ\’?W©*æüj    ªrª\Í€ÖSwO'.©2’ﬂ4≥¶˙‹Ì(»∑„!wOó)1’CÕ¨©>u;é˛Ìà˙›”Â«⁄MıP3k™œ›Œƒ˙vN÷›”ÂgkôÍ°f÷TüªùÀ{{î˙ˆÓNÚù:ﬂ◊T—Ãöj0^5N+›=«˚z:y≈à©˛¢ô5’e„}˚¡Jãø5’CÕ¨©„Mºc}˚¡JÔÉk™áöYS}ÓH[RGöÍ°f÷Tü;“æ∏#MıP3k™Å˙Áqóaõgı£9l™áöYS}Óvπ‘◊£qºªÎ®ñ_Re™áöYS         ‡@⁄˛∂_u’æ<Årï´y`üÜKrRY4ﬂ˝«Eû˜?øŸxÕ⁄©+™˚Ô
+ó@NU1Æn’UÍüÙèŒÔ,MQ4›◊kØOØ?îu™ä∫Ωˇ˘©ﬁèöf¯i”∑˜mJp◊@⁄b\|S”/˘„[D*™t^˚∫.◊∑ßèÔ Uwæ{˚˘} U˜sJp◊@∫‚≤ùûn≠À˘ÈÒÈC √bﬂÄ”ÌÁwÅåQ|õ≈Ì§ÌˇΩÔWû⁄k„ßi|md‹û>“Ìó˝€œÔ9ML	é‚~´™á•k ©∏_y˜ÙÁF˙9âªüﬂØbù~N	„~#ΩÓˇùÔæøÉ|π=ù‰ÓÁ„'ù’_Å¨ı…Nê€˝nﬁa1ÆnÅ|€f∏=ù‰€œSqƒ÷u†ºäï⁄!êqüVøÔÈ¸≥Îø˛∑ßÌ›˛®[ ∑ü;≠™€*÷˜)¡Q‹üj“–®Ümês+√qê˛è2]_{{:˛xp‰ÓÁmgΩª@æO	      æ˚…Â˙00+¶    IENDÆB`ÇE-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:00:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 132
+ramUsage : 29.43
+userCount : 0
+Backup effectu√©
+L'emplacement actuel est : /home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-
+
+gnuplot> set output "Web/static/img"
+                                    ^
+         line 0:          cannot open file; output not changed
+system error: Is a directory
+
+âPNG
+
+   IHDR     X   ≠®rB  2PLTEˇˇˇ   †††ˇ   ¿  Äˇ¿ ˇ ÓÓ¿@ »» Ai·ˇ¿  Ä@¿Äˇ0`Äã  @Ä ˇÄˇˇ‘•**ˇˇ @‡–   333MMMfffôôô≥≥≥¿¿¿ÃÃÃÂÂÂˇˇˇ22êÓê≠ÿÊU‡ˇˇÓ›Çˇ∂¡ØÓÓˇ◊  ˇ  d  ˇ"ã".ãW  ˇ  ãp  Ä  ÕáŒÎ ˇˇˇ ˇ Œ—ˇìˇPÄÄˇE ˙ÄrÈñzÊåΩ∑k∏Üıı‹†Ä ˇ• ÓÇÓî ”›†›êP@Uk/Ä ÄÄ@Ä@ÄÄ`¿Ä`ˇÄÄ ˇÄ@ˇ†@ˇ†`ˇ†pˇ¿¿ˇˇÄˇˇ¿Õ∑ûˇ†∂Õ¡ˇ¡Õ¿∞|ˇ@†ˇ æææﬂﬂﬂ___???üüüøøøúV¨   	pHYs  ƒ  ƒï+  xIDATxúÌ›v¢HÄQY˚ôuØ˝oa4jÇÉB	…ΩÁLZC—s¯Zûr:              º©-Fì?,ßæ=˘ÕoöfÍª]Uu”^≠œN’8±Æh/Ø˘Ò¯§∂Hœ¯≠ÖÒÈÀÅ¥EïN©</˙˝†Á•@ÿªÂÅÃ1H◊—ˇŸ]m
+Å∞w_Å\4ıyÈlä¢ÈüET√¬~^‰´a≈Ëí…Ì5u™∆’•ÀtÍ¢È˙@æ~Ô¢∫Â5éUùøFÅ§ÛYøB6¨ë’Uzò˙)ı3–≠Ùû∏ΩÉˇ¿ßÛ◊Óº*îö:}‰~ÎÓ5u’ùøw]TœÔÁLR‹ﬁUÊΩÉ4M:o∂\f/ıÂﬁM=ı3p∂qŸHÔË~	,œãÓ∞(û¿(ê˚◊Ùi]]¶7˛Î^LR›ö˙_¸«6»„ZVÍ«πM}òÅ';`5∑wêÓ∫é€
+˝¯<êoØπ-©„Í“Ø4ıØå©Îˆ2oe›ˇB{?ıÒQYØÚ?ûπ€H?ø§~’\X´(ê˚◊ÀhuÈ‡ÚÉY´X√ÔE€ ˝V∆∞/∏ÓN˜≥vûf*¢›”∞ñª@ŒK˛‘ª√∞Í5¸´=˝Ú»˝;»◊Ôç~l§èK„7∫…otUˇÁ^”MΩÉ¿∆Ó9ˇ˚<lJ\VÙØ€ √óaΩˇ~‰ˆö«@n[	∑ﬂ˝ÿÕ;~s|+*NOæ—ˇR1Æåµ€ ∂>»·˛8HSˇnèªä∆ÌË”eQ’/ê„?ÎóΩX_Øy‰€~¶™π_±∫?P¯5fw9f¯˝©È“8‰y+µC √‘´Î‘œØÛ>¬∂Æßö§·Ò∏Õ˚xd8ˆêÜΩ?U‰Áqê˛ÈW wG*nøwqw™I˙˙føﬁ‹ÔØ˙˙F◊\éÉÙZ™q˚cúz5|Û<±2ùÄGµ˜ò‘ØW5—Ÿ1óµN0       Ú¯:;t¸ºåÙŸπÅ}È?à„T'M◊M:7í>=G∞#„uusΩ¡EõpÁ»xµtÂ1‡&’√*Vw˝ Å˘§	AWèÆt˘î≥“u7p”çVŸ
+&\>¨≤û^≈*‡PV‰öEö‹HüoÚª^∫‡•;ù≠_˙“∑\ﬁAäÈ›ºˇª˝“óÓt∂~ÈKﬂ“é€ }
+?˛w˚•/›Èl˝“óæÁ˛Tì‚˚©&€ÏÛ5’CÕ¨©ÊœT5≥¶ö{<S=‘ÃöÍ~∆É∑Ñè¯y3˜}ﬁâW |¬ƒÕ‹ÚâÒÿ•©õπ‰„±KS7sπﬁÃ}Ú^Ó[ﬁÃ] |¿‘Õ‹√@öÊv3˜Ô˜rﬂÙfÓ·¶nÊÚ∞öıÌ^ÓõﬁÃ] |¿‘Õ‹√@ænÊ>q/˜MoÊ.>`ÍfÓÒ6»ÂfÓ˜rüæô˚ÀMœÈöÌ¬i˙fÓˇ∏ó˚x3˜©{πo˙π ·¶nÊ˛œ{π˜!L›À}”õπÑOò∫ô˚Û{πﬂnÊ>u/˜MoÊ.>bÍfÓœÔÂ˛u≈‰Ω‹∑ºôª@8≤ÕÔÂ.*œΩ‹¬AÂπóª@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  Å¿˙l3ﬁ≥z∏πbUM⁄x<ÿ–FÏxõﬂ∫IÁFRÜÒ`-∞UÔ∏Ò˛•èwyá≤—;¨aUıÈÎÎ∆„¡6∂Y`€·F÷u_…©|‚˝Ò˛{{
+0€6Å4√dÎ·&ÔÂ√ùz¬°lH*Ü4¬·mH[∑Øû\≈Ω1qÅê≈˚ãÍSÕ∏]æÕF∫@»hã@“eœÓ6ªyBF[Úµ’±…ÅBÅê—Åå€ß˛Tìb˝SMBF«;YQ d$ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@ ∞E ]S‘eˇ Uu—§ï«mH[¥ßT∂ÁGuìŒç§u«≠H*⁄À£∂H˝Â∫„	Ñå÷§¸ödUﬂæÆ7û@»h˝@ö¶¨ãz\√ÍüóCÑCY?ês]j˚´∫Íüó√ä÷z„	Ñå∂§;mjÅl∞ä5L≤œbrkÙ∆ÙBÔ/™”™Ø@l§sxÎ“}≠bŸÕÀ·mp†∞©ª·`°ÖﬂßöTó›ºßTN5·–ú¨Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@`˝@∫¢W˜SUMZy<Åê—Å§Î√∫IÁF“˝O¬°lH;<* u«mHUﬂæÆ7û@»hã@Í¢Æ“©_√ÍüóCÑCŸ ê2ù∫∫ﬂÚ®´˛yy€&Ye<Åê—FªySøÂ!o´„ ˝Í’‰*÷Ëç)Ñ,ﬁ_T#}6“9º-W±ÏÊÂñ-∞]Ÿ‘uSv—k™ˆ∫ëÓ@!á∑dÅmÎ¢hŒä¢nüø™?ød‹Õ{~X8’ÑC[∞¿6uô∆G]9no;ﬁ!£l˘Ù…6„=!2r∫;^X`ªp}˝Òæ-^`ªÛñz˝z"·P/∞˝¨∂˛˜Î÷ÔÅê—Ç∂∫˝¬Îãπ@8î%ÅG?ö™Î™WwÚ
+ÑÉY≤¿vuìN©˘qo´Ò¶	Ñåñ-∞eÒÍÒè◊∆õ"2Z∏¿¶&:Àd˝Ò&Ñå-∞˝ê∂_œ 4ﬁ$Åê—Çˆz‰≠ı,Åp(KNV<wQˆ˚ØŒÎY9∆{B d¥`ÅΩ;Ú˙và@8î%Ô UJoY<ﬁ!£ÏõG@è˜Ñ@»»ÈÓñlÉ‹ù‰ﬁπ‰ñ?a……äE”¶˛AW6Eµ˝xOÑåñ,∞˝áîå∆-Ÿzºi!£ÖlWVU¸±XÎé7A dd#ÅÄ@  ÅÄ@ ∞Ù8HSü„˙)Ô€è7A d¥:E”ﬂr∞|˝ö[Åp(Àÿ˛™€Ûo$ó‹ÚG,[`˚õãÎıÒ¶Ñå^
+ƒ;≈¬U¨j¯çÍ’ì›¬¡,[`SQóEŸ∑wŒ1ﬁÅê—‚è-ﬁ˚‰Åp(ÀÿîyºÔBFé§C@ X∏Î¢z˘dÅp(K)Í¶.öÛ/^ò.e·πX√«ô§¶;ßícº)!£ÖÔ i¯#5ßÙ‚í.e˘©&ß”Pá@¯ñ-∞ıxû{Yø¸Ÿ£·Pñ-∞m—îmŸÌ©zÒ:·P_QÿüjÚ∆G+
+ÑCq™	∂9í^çü˛û™˙˚ôç·Pñ.∞];à_‘÷c uìŒç§w∆˚I d¥zê˙rˇÉº™iáΩ¬èwUá≤lÅ≠öT§Æ˙«ÌA™Ê4RWÊV◊Á
+ÑCYx$ø–Üó‹vE7R«J á!¬°,<í~˘ÖCÍ˛¬ıÍÚ†$Ω<ﬁÅê—‚@ÍÓ¸2lïÑﬂaq e]ñu∞äïä~◊ÛU¨˘1Åê≈+ãjøÏWuxœÓz£œŒF:«∑—%∑vÛÚ;,˝ÿüSß€üãÂ@!ø√¬U¨™_(˛}ΩÌıTì¢%e·Ö›Ò£ÌãÉ,oä@»hÒ^¨‘ø}¯tw˛à≈G“[üÓŒ≤Ù\¨∂?∏ÒÍı∂ã«õ"2Zx6oSÙ;•ﬁ∏§P  Kl <ﬁÅêëœÊÖ¿Ç∂Ωx„#¬¡,X`ã/ØﬂZ ÀÇ∂ªh´‚≈≈Z6ﬁ!£óÿ“n^˛à◊ˆb9íŒ!º¥¿Üó‹n0ﬁÅê—ljÎ◊wc	ÑCyi7ÔÎ€Ë·X,∞’≈å
+WÔ	ÅêëSM  ÅÄ@  .òÇÄ¶ ‡Ç)∏`
+ÆÅÄ@ ‡Ç)∏`
+.òÇÄ¶ ∞”›3è7E d¥dÅ-ﬂ;àæxºi!£lY4UÛ∆AÙ•„=!2Z∞¿˚Æ ◊˜.Ô	Åê—íΩX˝ó7é.Ô	Åê—“@ﬁ]¬¬°,	$ı∆Ø9∆{B dÙ“Å¬¬πX¸/\QÿÀ1ﬁ!#◊§C@ X≤¿^?Æ°{„`°@8î%€ ≈5◊§ÛW,X`õØÛ∞\ìŒ_±‰Tìt}î\Q»±¯H˙“ﬂz}º'BFºÉ¥MQ7√ÊJ™Í¢I?á≤Ëä¬üè&¥ew.cÿ†Øõtn$Ω8ﬁ!£%ü¨xΩZ™,˛}—mQıªΩRˇË·+Åp(ãéÉESUM1g/oüE5¨âUÎc·P-∞]’ü®X˝˚˝c\±™áΩ¡Â√·P∂8’‰¸Sõ √¶J9¨h≠7û@»hõs±∆çtÅpx[ù¨ÿØ^MÆbΩy=â@»‰˝E5“‘6“˘∂|±õó√[?ê™Mß‘8P»Ø∞~ ˝˘%uï∆áÖSM84WB@ Å@@ Å@@ Å@@ ¬_5kIï@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  Å¿áIe]‘UVu—§ï«Î¯P M›ù∫∫Ó÷M:7í÷O ¨„CÅî˝óÆhOß∂H˝Â∫„	Ñu|r$ıYT√€»¯uΩÒ¬:>H€øÉ‘Mˇ∞|B Ï≈I√6H]ıèÀaEkΩÒ¬:>HSt'Å∞oü§ÍW∞û¨bçﬁò∏@X«?ñ§˜’g ±ÈÏ⁄ßﬁA Îé]ªyŸ≥“ﬁäp†ê˚P ı∏Í÷o†ß™p™	{ÂdEÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ü
+§´ä"èRUMZy<Å∞é“5my	§n“πë¥Óxaü[≈∫“Â∫„	Ñu|<ê™æ}]o<Å∞éèR7„ìu«Î¯| ’›ì’∆Î>»‘*÷ËçâÑu¸cIzQ} F:ÒwªyŸ≥è‚@!{ˆ©@∆U∑~˚#UÖSMÿ+'+B‡wÚü@Xá@  êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã7kQ»õv6;Ã'êv6;Ã'êv6;Ã˜+˘O ¨D 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòÔÛÅ§™.ö¥Íxa-ü§n“πë¥Êx”ÅlÛ∑ò5’≈ÅlÙ¸Éˇé:’è“©°\s<ÅdùÏØûÍ«©Í€◊µ∆H÷…˛Í©~<ê∫ÈøñCLè7˘›…o.	d˛TﬂxÈüûÅ¸c˝ñó~[îñ¸ﬂ^G]ı_ÀaEÎÖπà@|W ˘ÂÅL≠b¡°l»‘F:p1µõ∏™(ÆRU|?’    vÂvπ‘∑ßÓûN\Re™øifMıπ€Qêo«CÓû.?Rb™áöYS}Ív˝€ıªßÀèµõÍ°f÷TüªùâıÌú¨ªßÀœ÷2’CÕ¨©>w;ó˜ˆ(ıÌ›ù‰;uæØ©˛¢ô5’`ºjúV∫{4é˜ıtÚäS˝E3k™À∆˚ˆÉï˛k™áöYS∆õx«˙ˆÉïﬁˇ÷T5≥¶˙‹ë∂§é4’CÕ¨©>w§}qGöÍ°f÷Tıœ„.√6œÍGs˛ÿT5≥¶˙‹Ìr©ØG„xw◊Q-ø§ T5≥¶
+         ¿Å¥˝møÍ™}yÂ*WÛ¿>ó‰§≤hæ˚èã<Ô,~≥ÒöµSWT˜ﬂ.Åú™b\›™´‘?ÈùﬂYö¢h∫Ø◊^ü^<(ÎTu{ˇÛS5º5Õ”¶oÔ€î‡ ÆÅ¥≈∏¯¶¶_Ú«∑àTTÈºˆu]ÆoOﬂA™Ó4|˜ˆÛ˚@™ÓÁî‡(ÆÅt≈e;=›
+ZñÛ”„”á@Ü≈æˇ ß€œÔ£¯6%8ä€;H€ˇ{ﬂØ<µ◊∆O”¯⁄»∏=}§ˇ⁄/˚∑üﬂröò≈˝*VU+J◊@Rq1æÚÓÈœçÙsw?ø_≈:˝ú∆˝Fz›ˇ;ﬂ}˘r{:»›œ«O:´øYÎìù ∑˚›º√b\›˘∂Õp{:»∑üß‚à≠Í˛@·y+µC „>≠~ﬂ”˘g◊˝oO€ª˝Q∑@n?vZU∑U¨ÔSÇ£∏?’§?†Q€ ÁVÜ„ ˝e∫æˆˆt¸Ò‡»›œ€˛ŒzwÅ|ü      |˜?¡„8w€l/    IENDÆB`ÇE-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:01:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 132
+ramUsage : 29.31
+userCount : 0
+L'emplacement actuel est : /home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-
+
+gnuplot> set output "Web/static/img"
+                                    ^
+         line 0:          cannot open file; output not changed
+system error: Is a directory
+
+âPNG
+
+   IHDR     X   ≠®rB  2PLTEˇˇˇ   †††ˇ   ¿  Äˇ¿ ˇ ÓÓ¿@ »» Ai·ˇ¿  Ä@¿Äˇ0`Äã  @Ä ˇÄˇˇ‘•**ˇˇ @‡–   333MMMfffôôô≥≥≥¿¿¿ÃÃÃÂÂÂˇˇˇ22êÓê≠ÿÊU‡ˇˇÓ›Çˇ∂¡ØÓÓˇ◊  ˇ  d  ˇ"ã".ãW  ˇ  ãp  Ä  ÕáŒÎ ˇˇˇ ˇ Œ—ˇìˇPÄÄˇE ˙ÄrÈñzÊåΩ∑k∏Üıı‹†Ä ˇ• ÓÇÓî ”›†›êP@Uk/Ä ÄÄ@Ä@ÄÄ`¿Ä`ˇÄÄ ˇÄ@ˇ†@ˇ†`ˇ†pˇ¿¿ˇˇÄˇˇ¿Õ∑ûˇ†∂Õ¡ˇ¡Õ¿∞|ˇ@†ˇ æææﬂﬂﬂ___???üüüøøøúV¨   	pHYs  ƒ  ƒï+  xIDATxúÌ›v¢HÄQY˚ôuØ˝oa4jÇÉB	…ΩÁLZC—s¯Zûr:              º©-Fì?,ßæ=˘ÕoöfÍª]Uu”^≠œN’8±Æh/Ø˘Ò¯§∂Hœ¯≠ÖÒÈÀÅ¥EïN©</˙˝†Á•@ÿªÂÅÃ1H◊—ˇŸ]m
+Å∞w_Å\4ıyÈlä¢ÈüET√¬~^‰´a≈Ëí…Ì5u™∆’•ÀtÍ¢È˙@æ~Ô¢∫Â5éUùøFÅ§ÛYøB6¨ë’Uzò˙)ı3–≠Ùû∏ΩÉˇ¿ßÛ◊Óº*îö:}‰~ÎÓ5u’ùøw]TœÔÁLR‹ﬁUÊΩÉ4M:o∂\f/ıÂﬁM=ı3p∂qŸHÔË~	,œãÓ∞(û¿(ê˚◊Ùi]]¶7˛Î^LR›ö˙_¸«6»„ZVÍ«πM}òÅ';`5∑wêÓ∫é€
+˝¯<êoØπ-©„Í“Ø4ıØå©Îˆ2oe›ˇB{?ıÒQYØÚ?ûπ€H?ø§~’\X´(ê˚◊ÀhuÈ‡ÚÉY´X√ÔE€ ˝V∆∞/∏ÓN˜≥vûf*¢›”∞ñª@ŒK˛‘ª√∞Í5¸´=˝Ú»˝;»◊Ôç~l§èK„7∫…otUˇÁ^”MΩÉ¿∆Ó9ˇ˚<lJ\VÙØ€ √óaΩˇ~‰ˆö«@n[	∑ﬂ˝ÿÕ;~s|+*NOæ—ˇR1Æåµ€ ∂>»·˛8HSˇnèªä∆ÌË”eQ’/ê„?ÎóΩX_Øy‰€~¶™π_±∫?P¯5fw9f¯˝©È“8‰y+µC √‘´Î‘œØÛ>¬∂Æßö§·Ò∏Õ˚xd8ˆêÜΩ?U‰Áqê˛ÈW wG*nøwqw™I˙˙føﬁ‹ÔØ˙˙F◊\éÉÙZ™q˚cúz5|Û<±2ùÄGµ˜ò‘ØW5—Ÿ1óµN0       Ú¯:;t¸ºåÙŸπÅ}È?à„T'M◊M:7í>=G∞#„uusΩ¡EõpÁ»xµtÂ1‡&’√*Vw˝ Å˘§	AWèÆt˘î≥“u7p”çVŸ
+&\>¨≤û^≈*‡PV‰öEö‹HüoÚª^∫‡•;ù≠_˙“∑\ﬁAäÈ›ºˇª˝“óÓt∂~ÈKﬂ“é€ }
+?˛w˚•/›Èl˝“óæÁ˛Tì‚˚©&€ÏÛ5’CÕ¨©ÊœT5≥¶ö{<S=‘ÃöÍ~∆É∑Ñè¯y3˜}ﬁâW |¬ƒÕ‹ÚâÒÿ•©õπ‰„±KS7sπﬁÃ}Ú^Ó[ﬁÃ] |¿‘Õ‹√@öÊv3˜Ô˜rﬂÙfÓ·¶nÊÚ∞öıÌ^ÓõﬁÃ] |¿‘Õ‹√@ænÊ>q/˜MoÊ.>`ÍfÓÒ6»ÂfÓ˜rüæô˚ÀMœÈöÌ¬i˙fÓˇ∏ó˚x3˜©{πo˙π ·¶nÊ˛œ{π˜!L›À}”õπÑOò∫ô˚Û{πﬂnÊ>u/˜MoÊ.>bÍfÓœÔÂ˛u≈‰Ω‹∑ºôª@8≤ÕÔÂ.*œΩ‹¬AÂπóª@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  Å¿˙l3ﬁ≥z∏πbUM⁄x<ÿ–FÏxõﬂ∫IÁFRÜÒ`-∞UÔ∏Ò˛•èwyá≤—;¨aUıÈÎÎ∆„¡6∂Y`€·F÷u_…©|‚˝Ò˛{{
+0€6Å4√dÎ·&ÔÂ√ùz¬°lH*Ü4¬·mH[∑Øû\≈Ω1qÅê≈˚ãÍSÕ∏]æÕF∫@»hã@“eœÓ6ªyBF[Úµ’±…ÅBÅê—Åå€ß˛Tìb˝SMBF«;YQ d$ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@ ∞E ]S‘eˇ Uu—§ï«mH[¥ßT∂ÁGuìŒç§u«≠H*⁄À£∂H˝Â∫„	Ñå÷§¸ödUﬂæÆ7û@»h˝@ö¶¨ãz\√ÍüóCÑCY?ês]j˚´∫Íüó√ä÷z„	Ñå∂§;mjÅl∞ä5L≤œbrkÙ∆ÙBÔ/™”™Ø@l§sxÎ“}≠bŸÕÀ·mp†∞©ª·`°ÖﬂßöTó›ºßTN5·–ú¨Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@@ Å@`˝@∫¢W˜SUMZy<Åê—Å§Î√∫IÁF“˝O¬°lH;<* u«mHUﬂæÆ7û@»hã@Í¢Æ“©_√ÍüóCÑCŸ ê2ù∫∫ﬂÚ®´˛yy€&Ye<Åê—FªySøÂ!o´„ ˝Í’‰*÷Ëç)Ñ,ﬁ_T#}6“9º-W±ÏÊÂñ-∞]Ÿ‘uSv—k™ˆ∫ëÓ@!á∑dÅmÎ¢hŒä¢nüø™?ød‹Õ{~X8’ÑC[∞¿6uô∆G]9no;ﬁ!£l˘Ù…6„=!2r∫;^X`ªp}˝Òæ-^`ªÛñz˝z"·P/∞˝¨∂˛˜Î÷ÔÅê—Ç∂∫˝¬Îãπ@8î%ÅG?ö™Î™WwÚ
+ÑÉY≤¿vuìN©˘qo´Ò¶	Ñåñ-∞eÒÍÒè◊∆õ"2Z∏¿¶&:Àd˝Ò&Ñå-∞˝ê∂_œ 4ﬁ$Åê—Çˆz‰≠ı,Åp(KNV<wQˆ˚ØŒÎY9∆{B d¥`ÅΩ;Ú˙và@8î%Ô UJoY<ﬁ!£ÏõG@è˜Ñ@»»ÈÓñlÉ‹ù‰ﬁπ‰ñ?a……äE”¶˛AW6Eµ˝xOÑåñ,∞˝áîå∆-Ÿzºi!£ÖlWVU¸±XÎé7A dd#ÅÄ@  ÅÄ@ ∞Ù8HSü„˙)Ô€è7A d¥:E”ﬂr∞|˝ö[Åp(Àÿ˛™€Ûo$ó‹ÚG,[`˚õãÎıÒ¶Ñå^
+ƒ;≈¬U¨j¯çÍ’ì›¬¡,[`SQóEŸ∑wŒ1ﬁÅê—‚è-ﬁ˚‰Åp(ÀÿîyºÔBFé§C@ X∏Î¢z˘dÅp(K)Í¶.öÛ/^ò.e·πX√«ô§¶;ßícº)!£ÖÔ i¯#5ßÙ‚í.e˘©&ß”Pá@¯ñ-∞ıxû{Yø¸Ÿ£·Pñ-∞m—îmŸÌ©zÒ:·P_QÿüjÚ∆G+
+ÑCq™	∂9í^çü˛û™˙˚ôç·Pñ.∞];à_‘÷c uìŒç§w∆˚I d¥zê˙rˇÉº™iáΩ¬èwUá≤lÅ≠öT§Æ˙«ÌA™Ê4RWÊV◊Á
+ÑCYx$ø–Üó‹vE7R«J á!¬°,<í~˘ÖCÍ˛¬ıÍÚ†$Ω<ﬁÅê—‚@ÍÓ¸2lïÑﬂaq e]ñu∞äïä~◊ÛU¨˘1Åê≈+ãjøÏWuxœÓz£œŒF:«∑—%∑vÛÚ;,˝ÿüSß€üãÂ@!ø√¬U¨™_(˛}ΩÌıTì¢%e·Ö›Ò£ÌãÉ,oä@»hÒ^¨‘ø}¯tw˛à≈G“[üÓŒ≤Ù\¨∂?∏ÒÍı∂ã«õ"2Zx6oSÙ;•ﬁ∏§P  Kl <ﬁÅêëœÊÖ¿Ç∂Ωx„#¬¡,X`ã/ØﬂZ ÀÇ∂ªh´‚≈≈Z6ﬁ!£óÿ“n^˛à◊ˆb9íŒ!º¥¿Üó‹n0ﬁÅê—ljÎ◊wc	ÑCyi7ÔÎ€Ë·X,∞’≈å
+WÔ	ÅêëSM  ÅÄ@  .òÇÄ¶ ‡Ç)∏`
+ÆÅÄ@ ‡Ç)∏`
+.òÇÄ¶ ∞”›3è7E d¥dÅ-ﬂ;àæxºi!£lY4UÛ∆AÙ•„=!2Z∞¿˚Æ ◊˜.Ô	Åê—íΩX˝ó7é.Ô	Åê—“@ﬁ]¬¬°,	$ı∆Ø9∆{B dÙ“Å¬¬πX¸/\QÿÀ1ﬁ!#◊§C@ X≤¿^?Æ°{„`°@8î%€ ≈5◊§ÛW,X`õØÛ∞\ìŒ_±‰Tìt}î\Q»±¯H˙“ﬂz}º'BFºÉ¥MQ7√ÊJ™Í¢I?á≤Ëä¬üè&¥ew.cÿ†Øõtn$Ω8ﬁ!£%ü¨xΩZ™,˛}—mQıªΩRˇË·+Åp(ãéÉESUM1g/oüE5¨âUÎc·P-∞]’ü®X˝˚˝c\±™áΩ¡Â√·P∂8’‰¸Sõ √¶J9¨h≠7û@»hõs±∆çtÅpx[ù¨ÿØ^MÆbΩy=â@»‰˝E5“‘6“˘∂|±õó√[?ê™Mß‘8P»Ø∞~ ˝˘%uï∆áÖSM84WB@ Å@@ Å@@ Å@@ ¬_5kIï@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  Å¿áIe]‘UVu—§ï«Î¯P M›ù∫∫Ó÷M:7í÷O ¨„CÅî˝óÆhOß∂H˝Â∫„	Ñu|r$ıYT√€»¯uΩÒ¬:>H€øÉ‘Mˇ∞|B Ï≈I√6H]ıèÀaEkΩÒ¬:>HSt'Å∞oü§ÍW∞û¨bçﬁò∏@X«?ñ§˜’g ±ÈÏ⁄ßﬁA Îé]ªyŸ≥“ﬁäp†ê˚P ı∏Í÷o†ß™p™	{ÂdEÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ÅÄ@  ü
+§´ä"èRUMZy<Å∞é“5my	§n“πë¥Óxaü[≈∫“Â∫„	Ñu|<ê™æ}]o<Å∞éèR7„ìu«Î¯| ’›ì’∆Î>»‘*÷ËçâÑu¸cIzQ} F:ÒwªyŸ≥è‚@!{ˆ©@∆U∑~˚#UÖSMÿ+'+B‡wÚü@Xá@  êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã'êv6;Ã7kQ»õv6;Ã'êv6;Ã'êv6;Ã˜+˘O ¨D 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòO 9ÏlvòÔÛÅ§™.ö¥Íxa-ü§n“πë¥Êx”ÅlÛ∑ò5’≈ÅlÙ¸Éˇé:’è“©°\s<ÅdùÏØûÍ«©Í€◊µ∆H÷…˛Í©~<ê∫ÈøñCLè7˘›…o.	d˛TﬂxÈüûÅ¸c˝ñó~[îñ¸ﬂ^G]ı_ÀaEÎÖπà@|W ˘ÂÅL≠b¡°l»‘F:p1µõ∏™(ÆRU|?’    vÂvπ‘∑ßÓûN\Re™øifMıπ€Qêo«CÓû.?Rb™áöYS}Ív˝€ıªßÀèµõÍ°f÷TüªùâıÌú¨ªßÀœ÷2’CÕ¨©>w;ó˜ˆ(ıÌ›ù‰;uæØ©˛¢ô5’`ºjúV∫{4é˜ıtÚäS˝E3k™À∆˚ˆÉï˛k™áöYS∆õx«˙ˆÉïﬁˇ÷T5≥¶˙‹ë∂§é4’CÕ¨©>w§}qGöÍ°f÷Tıœ„.√6œÍGs˛ÿT5≥¶˙‹Ìr©ØG„xw◊Q-ø§ T5≥¶
+         ¿Å¥˝møÍ™}yÂ*WÛ¿>ó‰§≤hæ˚èã<Ô,~≥ÒöµSWT˜ﬂ.Åú™b\›™´‘?ÈùﬂYö¢h∫Ø◊^ü^<(ÎTu{ˇÛS5º5Õ”¶oÔ€î‡ ÆÅ¥≈∏¯¶¶_Ú«∑àTTÈºˆu]ÆoOﬂA™Ó4|˜ˆÛ˚@™ÓÁî‡(ÆÅt≈e;=›
+ZñÛ”„”á@Ü≈æˇ ß€œÔ£¯6%8ä€;H€ˇ{ﬂØ<µ◊∆O”¯⁄»∏=}§ˇ⁄/˚∑üﬂröò≈˝*VU+J◊@Rq1æÚÓÈœçÙsw?ø_≈:˝ú∆˝Fz›ˇ;ﬂ}˘r{:»›œ«O:´øYÎìù ∑˚›º√b\›˘∂Õp{:»∑üß‚à≠Í˛@·y+µC „>≠~ﬂ”˘g◊˝oO€ª˝Q∑@n?vZU∑U¨ÔSÇ£∏?’§?†Q€ ÁVÜ„ ˝e∫æˆˆt¸Ò‡»›œ€˛ŒzwÅ|ü      |˜?¡„8w€l/    IENDÆB`ÇE-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:02:01
+-------------------
+cpuUsage : 23,5
+diskUsage : 78
+processCount : 135
+ramUsage : 29.58
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:03:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 78
+processCount : 137
+ramUsage : 30.51
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:04:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 137
+ramUsage : 30.53
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:05:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 135
+ramUsage : 30.29
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:06:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 137
+ramUsage : 30.57
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:07:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 137
+ramUsage : 31.00
+userCount : 0
+Backup effectu√©
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:08:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 134
+ramUsage : 31.08
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:09:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 134
+ramUsage : 31.21
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:10:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 134
+ramUsage : 31.09
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:11:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 134
+ramUsage : 30.92
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:12:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 134
+ramUsage : 31.01
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:13:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 78
+processCount : 134
+ramUsage : 31.20
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:14:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 134
+ramUsage : 31.20
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:15:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 137
+ramUsage : 31.28
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:16:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 134
+ramUsage : 31.82
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:17:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 134
+ramUsage : 31.26
+userCount : 0
+Backup effectu√©
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:18:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 137
+ramUsage : 31.08
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:19:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 137
+ramUsage : 31.44
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:20:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 137
+ramUsage : 31.90
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:21:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 137
+ramUsage : 32.13
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:22:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 140
+ramUsage : 32.03
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:23:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 133
+ramUsage : 31.43
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:24:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 133
+ramUsage : 31.08
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:25:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 136
+ramUsage : 30.90
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:26:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 135
+ramUsage : 32.21
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:27:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 135
+ramUsage : 32.23
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:28:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 135
+ramUsage : 32.26
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:29:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 133
+ramUsage : 31.67
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:30:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 132
+ramUsage : 31.69
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:31:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 133
+ramUsage : 31.89
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:32:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 78
+processCount : 133
+ramUsage : 31.82
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:33:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 133
+ramUsage : 31.79
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:34:01
+-------------------
+cpuUsage : 4,7
+diskUsage : 78
+processCount : 133
+ramUsage : 31.69
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:35:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 133
+ramUsage : 31.54
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:36:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 135
+ramUsage : 32.09
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:37:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 78
+processCount : 135
+ramUsage : 33.90
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:38:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 135
+ramUsage : 33.34
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:39:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 135
+ramUsage : 33.46
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:40:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 136
+ramUsage : 33.51
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:41:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 136
+ramUsage : 33.94
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:42:01
+-------------------
+cpuUsage : 2,1
+diskUsage : 78
+processCount : 134
+ramUsage : 34.61
+userCount : 0
+Backup effectu√©
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:43:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 135
+ramUsage : 34.42
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:44:01
+-------------------
+cpuUsage : 2,4
+diskUsage : 78
+processCount : 138
+ramUsage : 33.89
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:45:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 135
+ramUsage : 34.12
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:46:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 135
+ramUsage : 34.03
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:47:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 135
+ramUsage : 33.98
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:48:02
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 134
+ramUsage : 34.16
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:49:01
+-------------------
+cpuUsage : 11,9
+diskUsage : 78
+processCount : 136
+ramUsage : 36.32
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:50:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 139
+ramUsage : 36.25
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:51:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 137
+ramUsage : 36.51
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:52:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 137
+ramUsage : 36.67
+userCount : 0
+Backup effectu√©
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:53:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 78
+processCount : 137
+ramUsage : 36.62
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:54:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 137
+ramUsage : 36.41
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:55:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 137
+ramUsage : 36.58
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:56:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 136
+ramUsage : 35.87
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:57:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 136
+ramUsage : 36.02
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:58:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 136
+ramUsage : 35.78
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 15:59:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 136
+ramUsage : 35.87
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 16:00:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 136
+ramUsage : 36.30
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 16:01:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 136
+ramUsage : 36.25
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 16:02:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 136
+ramUsage : 36.31
+userCount : 0
+Backup effectu√©
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 16:03:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 136
+ramUsage : 35.95
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 16:04:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 136
+ramUsage : 36.16
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 16:05:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 78
+processCount : 136
+ramUsage : 36.48
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 16:06:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 136
+ramUsage : 36.83
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 16:07:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 136
+ramUsage : 36.86
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 16:08:01
+-------------------
+cpuUsage : 4,3
+diskUsage : 78
+processCount : 139
+ramUsage : 46.86
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 16:09:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 139
+ramUsage : 44.56
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 16:10:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 139
+ramUsage : 44.54
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 16:11:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 139
+ramUsage : 44.62
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 16:12:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 140
+ramUsage : 44.76
+userCount : 0
+Backup effectu√©
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 16:13:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 140
+ramUsage : 45.08
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 16:14:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 140
+ramUsage : 45.38
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 16:15:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 140
+ramUsage : 45.10
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 16:16:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 140
+ramUsage : 44.99
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 16:17:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 140
+ramUsage : 44.90
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 16:18:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 140
+ramUsage : 44.54
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 16:19:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 140
+ramUsage : 44.75
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 16:20:18
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 146
+ramUsage : 44.56
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 16:21:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 161
+ramUsage : 45.23
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-03-27 16:51:01
+-------------------
+cpuUsage : 24,7
+diskUsage : 78
+processCount : 171
+ramUsage : 45.42
+userCount : 0
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 395, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.10/http/client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.10/http/client.py", line 976, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f288907db70>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 756, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='www.cert.ssi.gouv.fr', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f288907db70>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/sondes/getCertAlert.py", line 16, in <module>
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 544, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 657, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='www.cert.ssi.gouv.fr', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f288907db70>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Backup effectu√©
+Une erreur s'est produite lors de l'envoi de l'e-mail d'alerte: [Errno -3] Temporary failure in name resolution
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            -------------------
+2024-04-18 15:48:04
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 129
+ramUsage : 5.54
+userCount : 1
+Alerte ins√©r√©e : CERTFR-2024-ALE-006
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-04-18 15:49:01
+-------------------
+cpuUsage : 12,5
+diskUsage : 81
+processCount : 144
+ramUsage : 22.27
+userCount : 1
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-04-18 15:50:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 81
+processCount : 144
+ramUsage : 21.45
+userCount : 1
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-04-18 15:51:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 81
+processCount : 144
+ramUsage : 20.95
+userCount : 1
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-04-18 15:52:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 81
+processCount : 141
+ramUsage : 20.20
+userCount : 1
+E-mail d'alerte envoy√© avec succ√®s.
+                                                                                                                                                                                  -------------------
+2024-05-02 15:39:01
+-------------------
+cpuUsage : 22,7
+diskUsage : 78
+processCount : 138
+ramUsage : 14.22
+userCount : 0
+Alerte ins√©r√©e : CERTFR-2024-ALE-007
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-05-02 15:40:02
+-------------------
+cpuUsage : 2,2
+diskUsage : 78
+processCount : 150
+ramUsage : 32.32
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-05-02 15:41:20
+-------------------
+cpuUsage : 2,0
+diskUsage : 78
+processCount : 150
+ramUsage : 31.39
+userCount : 0
+Backup effectu√©
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-05-02 15:42:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 147
+ramUsage : 31.44
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-05-02 15:43:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 78
+processCount : 147
+ramUsage : 31.53
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-05-02 15:44:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 79
+processCount : 209
+ramUsage : 31.29
+userCount : 0
+E-mail d'alerte envoy√© avec succ√®s.
+-------------------
+2024-05-02 16:09:08
+-------------------
+cpuUsage : 46,7
+diskUsage : 79
+processCount : 140
+ramUsage : 31.17
+userCount : 0
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 395, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.10/http/client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.10/http/client.py", line 976, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f0c528d5c30>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 756, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='www.cert.ssi.gouv.fr', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0c528d5c30>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/sondes/getCertAlert.py", line 16, in <module>
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 544, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 657, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='www.cert.ssi.gouv.fr', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0c528d5c30>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Une erreur s'est produite lors de l'envoi de l'e-mail d'alerte: [Errno -3] Temporary failure in name resolution
+-------------------
+2024-05-02 16:10:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 79
+processCount : 140
+ramUsage : 28.89
+userCount : 0
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 169, in _new_conn
+    conn = connection.create_connection(
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 700, in urlopen
+    httplib_response = self._make_request(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 395, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 234, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/lib/python3.10/http/client.py", line 1283, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1329, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1278, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.10/http/client.py", line 1038, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.10/http/client.py", line 976, in send
+    self.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 200, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 181, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x7f57692f9870>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 756, in urlopen
+    retries = retries.increment(
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='www.cert.ssi.gouv.fr', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f57692f9870>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/uapv2305333/plateforme-logiciel-de-monitoring-parc-informatique--Porjet-Admin-SYST-/sondes/getCertAlert.py", line 16, in <module>
+    response = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 544, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 657, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='www.cert.ssi.gouv.fr', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f57692f9870>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+Une erreur s'est produite lors de l'envoi de l'e-mail d'alerte: [Errno -3] Temporary failure in name resolution
+                                                                                                                                            -------------------
+2024-08-16 19:54:01
+-------------------
+cpuUsage : 2,2
+diskUsage : 79
+processCount : 132
+ramUsage : 5.54
+userCount : 1
+Alerte ins√©r√©e : CERTFR-2024-ALE-010
+Alerte ins√©r√©e : CERTFR-2024-ALE-009
+Alerte ins√©r√©e : CERTFR-2024-ALE-008
+Une erreur s'est produite lors de l'envoi de l'e-mail d'alerte: (535, b'5.7.8 Error: authentication failed: authentication failure')
+-------------------
+2024-08-16 19:55:01
+-------------------
+cpuUsage : 2,3
+diskUsage : 80
+processCount : 134
+ramUsage : 5.18
+userCount : 1
+Une erreur s'est produite lors de l'envoi de l'e-mail d'alerte: (535, b'5.7.8 Error: authentication failed: authentication failure')
+-------------------
+2024-08-16 19:56:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 83
+processCount : 145
+ramUsage : 23.15
+userCount : 1
+Une erreur s'est produite lors de l'envoi de l'e-mail d'alerte: (535, b'5.7.8 Error: authentication failed: authentication failure')
+-------------------
+2024-08-16 19:57:01
+-------------------
+cpuUsage : 1,9
+diskUsage : 83
+processCount : 154
+ramUsage : 45.06
+userCount : 1
+Backup effectu√©
+Une erreur s'est produite lors de l'envoi de l'e-mail d'alerte: (535, b'5.7.8 Error: authentication failed: authentication failure')
+-------------------
+2024-08-16 19:58:01
+-------------------
+cpuUsage : 0,0
+diskUsage : 83
+processCount : 151
+ramUsage : 40.78
+userCount : 1
+Une erreur s'est produite lors de l'envoi de l'e-mail d'alerte: (535, b'5.7.8 Error: authentication failed: authentication failure')
+-------------------
+2024-08-16 19:59:02
+-------------------
+cpuUsage : 15,6
+diskUsage : 83
+processCount : 146
+ramUsage : 40.32
+userCount : 1
+Une erreur s'est produite lors de l'envoi de l'e-mail d'alerte: (535, b'5.7.8 Error: authentication failed: authentication failure')
